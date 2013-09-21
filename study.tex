@@ -54,23 +54,76 @@ The primary physical considerations in determining build feasibility and an
 appropriate course of action are topographic terrain and RF environment. We
 surveyed the target area in late August of 2013, analyzing the lay of the land
 and taking ground-level RF spot samples: \par
--figure: topo map // \par
+\subsubsection{Terrain}
 The terrain in question, while not without its challenges, is actually quite
-suited for a wireless networking project. Lincoln Prep's commanding vista covers
-a great many points north and west, in addition to allowing for redundant
+suited for  wireless networking. \par
+figure: topo map // \par
+ Lincoln Prep's commanding vista covers
+a great many points north and northwest, in addition to allowing for redundant
 interconnection to existing KCFN infrastructure.  Those areas occluded by the
 gradients that lead to 71 Highway and the $18^{th}$ \& Vine valley are
 significantly devoid of residences.  Close proximity to
 existing KCFN infrastructure at $18^{th}$ \& Vine compensates adequately for the
 lack of clear line of sight  between Licon Prep and the Parade Park Homes
-residential area. The areas to the south and east of Lincoln Prep contain the
+residential area. \par
+The areas to the south and east of the target area contain the
 majority of residences in the target area. Light to moderate foliage and slight
-gradients there preclude one-hop access 
--figure: rf heatmaps/charts //
--rf environment //
-
+east-west gradients there preclude one-hop access to Lincon Prep from some
+locations. In order to compensate, a FreedomTower near $27^{th}$ \& Prospect
+would be highly beneficial.
+Finally, there is a significant outcropping of homes in the southwest corner of
+the area with no visibility of either Linoln Prep or the $27^{th}$ \& Prospect
+area. To connect these homes to the network would likely require the
+construction of a small FreedomTower at Wendel Phillips Academy. \par
+In general, the terrain of the target area does not present a significant
+obstacle, and is in many ways expedient to network construction. \par
+\subsubsection{RF Environment}
+The RF Environment shows heavy utilization in the 2.4GHz band, with light though
+not insignificant usage in the 5GHz band. Our finding is that while appropriate
+channel selection for devices will be critical, there is ample spectrum
+available for use in the target geography. In order to assess spectrum health,
+we conducted spot surveys at ten strategic locations. A dual-band 802.11 radio
+running in monitor mode cycled through all available channels, capturing and
+logging WiFi data frames. While it is highly unlikely that there are any non-WiFi
+emissions of concern, any such emissions were not captured or detected using
+this methodology. A statistical analysis of the resulting frame logs was conducted
+by comparing the total frames captured per channel to the number of available
+timing slots, weighting for the ratio of beacon frames to data frames, and
+normalizing for total channel capacity. The resultant metric is a reasonable
+approximation of how much data capacity is being used in each channel, and how
+much remains. While some minor deviations do exist
+between the individual spot surveys, the deviations are small enough that the
+data pool taken as a whole is highly reflective of the spectrum usage accross
+the entire area. The graph below reflects the average values accross all ten
+survey locations: \par
+INSERT ALL-SPECTRUM
+All told, this graph depicts a spectrum that is certainly utilized, but has plenty of room
+in the 5GHz band. While the more popular 2.4GHz band is crowded, the fact that
+it is slated for use only in Access Point deployments mitigates most of our
+concern. In general, the spectrum looks more or less as expected, and aligns
+well with the presuppositions of the Free Network Architecture.
 
 \subsection{Findings}
+On the basis of our survey results and prior field experience, we have devised
+a proposed plan of action and associated cost estimates. These projections are intended
+to serve as a starting point for collaboration, and certainly do not reflect the
+only viable path towards accomplishing the stated objectives.\par
+\subsubsection{Phase I}
+As a first phase, we recommend the construction of a FreedomTower atop Lincoln
+Prep, and organization of an enrichment education opportunity for district
+students. This would immediately create opportunities for block-level
+organization across much of the study footprint. The LP tower would be
+connected to existing KCFN infrastructure at $31^{st}$ \& Troost and $18^{th}$
+\& Vine, and to the School District's network via an auxilliary router at
+Lincoln Prep. Such an installation would incurr approximately \$2500 in hardware
+costs, and could be constructed by students under the supervision of Free
+Network Foundation and Connecting for Good. Labor costs would depend on the
+nature of the educational program established, but are unlikely to exceed \$3500. \par
+As part of this first phase, it would be necessary to lay the social and
+political groundwork for further growth. School administrators, student
+engineers, and members of the KCFN would reach out directly to those potential
+partners identified below, and to the community at large.
+
 -list of possible tower sites ranked by utility estimation
 -general cost estimate
 -specific requirements for initial tower
@@ -78,9 +131,4 @@ gradients there preclude one-hop access
 -number of nodes/relays/towers per area
 -overview of how lincoln network would be built, general size, very loose
 estimates of performance. 
-
-\subsection{Proposal}
-
-risk 1-. to avoid the risks detected\\
--- ownership to the end user (following the current approach)\\
 
