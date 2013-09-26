@@ -1,0 +1,456 @@
+12:34:52.242620 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:52.245226 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:52.248588 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 1, PRIVACY
+12:34:52.253847 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:34:52.256332 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1
+12:34:52.269800 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 0us Beacon (Sonya.Osborne) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:34:52.285155 1.0 Mb/s 2417 MHz 11b -86dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:34:52.302275 1.0 Mb/s 2427 MHz 11b -80dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:34:52.309883 1.0 Mb/s 2427 MHz 11b -80dB signal antenna 3 0us Beacon (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:34:52.349470 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:34:52.350783 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:34:52.396548 2.0 Mb/s 2447 MHz 11b -85dB signal antenna 3 258us Probe Response (2WIRE830) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 8, PRIVACY
+12:34:52.433458 2.0 Mb/s 2457 MHz 11b -76dB signal antenna 3 0us Beacon (2WIRE595) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:34:52.456010 2.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:34:54.866369 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:34:54.867442 6.0 Mb/s 5785 MHz 11a -81dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.868068 6.0 Mb/s 5785 MHz 11a -88dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.868841 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.870884 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.871496 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.872270 6.0 Mb/s 5785 MHz 11a -88dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.873256 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.875317 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.876001 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.876689 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:54.877704 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 Retry 60us Probe Response (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:55.125410 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:55.128071 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:55.133299 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:34:55.155705 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:34:55.162817 1.0 Mb/s 2417 MHz 11b -66dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:55.168111 1.0 Mb/s 2417 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:55.200318 1.0 Mb/s 2422 MHz 11b -77dB signal antenna 3 0us Beacon (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:34:55.201763 1.0 Mb/s 2422 MHz 11b -70dB signal antenna 3 0us Beacon (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:34:55.270363 2.0 Mb/s 2432 MHz 11b -74dB signal antenna 3 0us Beacon (Cason) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:34:55.275804 1.0 Mb/s 2437 MHz 11b -86dB signal antenna 3 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:34:55.277259 2.0 Mb/s 2437 MHz 11b -72dB signal antenna 3 Retry 258us Probe Response (Cason) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:34:55.280314 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:34:55.283611 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:34:55.286934 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:34:55.299939 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:34:55.323867 2.0 Mb/s 2447 MHz 11b -85dB signal antenna 3 0us Beacon (2WIRE830) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 8, PRIVACY
+12:34:55.382346 2.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:34:57.583306 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:34:57.733601 6.0 Mb/s 5785 MHz 11a -89dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:34:57.734631 6.0 Mb/s 5785 MHz 11a -78dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:34:57.741269 6.0 Mb/s 5785 MHz 11a -79dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:34:57.991753 1.0 Mb/s 2412 MHz 11b -71dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:57.994415 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:57.999729 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:34:58.004539 1.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:58.022986 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:34:58.027458 1.0 Mb/s 2417 MHz 11b -70dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:34:58.050816 1.0 Mb/s 2427 MHz 11b -81dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:34:58.062986 1.0 Mb/s 2432 MHz 11b -78dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:34:58.066249 1.0 Mb/s 2432 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:34:58.097943 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:34:58.102088 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:34:58.122017 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6
+12:34:58.134423 1.0 Mb/s 2442 MHz 11b -79dB signal antenna 3 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:34:58.182732 2.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 258us Probe Response (2WIRE242) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:34:58.187611 2.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 Retry 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:00.450626 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:00.600838 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:00.601678 6.0 Mb/s 5785 MHz 11a -79dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:00.608481 6.0 Mb/s 5785 MHz 11a -79dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:00.861523 1.0 Mb/s 2412 MHz 11b -67dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:00.864200 1.0 Mb/s 2412 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:00.872790 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:35:00.890239 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:00.897295 1.0 Mb/s 2417 MHz 11b -66dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:00.910357 1.0 Mb/s 2417 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:00.934736 1.0 Mb/s 2422 MHz 11b -79dB signal antenna 3 0us Beacon (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:35:00.936204 1.0 Mb/s 2422 MHz 11b -72dB signal antenna 3 0us Beacon (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:35:00.966048 2.0 Mb/s 2427 MHz 11b -84dB signal antenna 3 0us Beacon (2WIRE393) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 5, PRIVACY
+12:35:00.987919 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:00.992348 1.0 Mb/s 2437 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:00.997901 1.0 Mb/s 2437 MHz 11b -88dB signal antenna 3 304us Probe Response (Wireless_N) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:01.004814 2.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 0us Beacon (Cason) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:01.013994 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 0us Beacon (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:35:01.017985 2.0 Mb/s 2437 MHz 11b -86dB signal antenna 3 0us Beacon (GLADYS) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:01.048489 2.0 Mb/s 2452 MHz 11b -83dB signal antenna 3 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:01.050570 2.0 Mb/s 2452 MHz 11b -83dB signal antenna 3 Retry 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:01.052441 2.0 Mb/s 2452 MHz 11b -82dB signal antenna 3 Retry 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:01.059168 2.0 Mb/s 2452 MHz 11b -82dB signal antenna 3 0us Beacon (2WIRE131) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 9, PRIVACY
+12:35:01.083378 2.0 Mb/s 2457 MHz 11b -74dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:01.085752 2.0 Mb/s 2457 MHz 11b -74dB signal antenna 3 Retry 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:01.117966 2.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:01.119456 2.0 Mb/s 2462 MHz 11b -82dB signal antenna 3 Retry 258us Probe Response (2WIRE242) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:01.131352 2.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 0us Beacon (2WIRE621) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:01.137534 2.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 0us Beacon (2WIRE595) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:03.317844 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:03.468070 6.0 Mb/s 5785 MHz 11a -89dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:03.468834 6.0 Mb/s 5785 MHz 11a -78dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:03.475703 6.0 Mb/s 5785 MHz 11a -79dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:03.726327 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:03.728907 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:03.737518 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:35:03.761032 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:03.790045 1.0 Mb/s 2427 MHz 11b -82dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:03.833100 2.0 Mb/s 2432 MHz 11b -84dB signal antenna 3 0us Beacon (2WIRE393) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 5, PRIVACY
+12:35:03.841562 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:03.843791 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:03.846696 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:03.856415 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6
+12:35:03.875078 1.0 Mb/s 2442 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:03.876643 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:03.881243 1.0 Mb/s 2442 MHz 11b -80dB signal antenna 3 0us Beacon (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:35:03.891753 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:03.901574 1.0 Mb/s 2442 MHz 11b -80dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:03.926278 2.0 Mb/s 2452 MHz 11b -82dB signal antenna 3 0us Beacon (2WIRE131) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 9, PRIVACY
+12:35:03.943573 2.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:03.944474 2.0 Mb/s 2462 MHz 11b -86dB signal antenna 3 Retry 258us Probe Response (2WIRE242) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:03.965019 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 0us Beacon (ASUS_24) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:06.185077 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:06.335311 6.0 Mb/s 5785 MHz 11a -88dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:06.336424 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:06.342897 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:06.593958 1.0 Mb/s 2412 MHz 11b -66dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:06.596635 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:06.603765 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:06.624651 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:06.629152 1.0 Mb/s 2417 MHz 11b -67dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:06.669205 1.0 Mb/s 2422 MHz 11b -77dB signal antenna 3 0us Beacon (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:35:06.670643 1.0 Mb/s 2422 MHz 11b -71dB signal antenna 3 0us Beacon (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:35:06.698004 1.0 Mb/s 2427 MHz 11b -81dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:06.745185 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:06.749507 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:06.763562 1.0 Mb/s 2437 MHz 11b -89dB signal antenna 3 0us Beacon (Wireless_N) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:35:06.768896 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:06.781055 1.0 Mb/s 2442 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:06.784560 1.0 Mb/s 2442 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:06.786875 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:06.790406 1.0 Mb/s 2442 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:06.827298 2.0 Mb/s 2452 MHz 11b -85dB signal antenna 3 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:06.831359 2.0 Mb/s 2452 MHz 11b -84dB signal antenna 3 Retry 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:06.871955 2.0 Mb/s 2457 MHz 11b -77dB signal antenna 3 0us Beacon (2WIRE595) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:06.900088 2.0 Mb/s 2462 MHz 11b -86dB signal antenna 3 Retry 258us Probe Response (2WIRE242) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:09.154694 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:09.312508 6.0 Mb/s 5785 MHz 11a -79dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:09.313386 6.0 Mb/s 5785 MHz 11a -79dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:09.571852 1.0 Mb/s 2412 MHz 11b -66dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:09.574564 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:09.576809 2.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 Retry 258us Probe Response (2WIRE156) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:35:09.580082 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:09.583451 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:09.586702 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:09.600469 2.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 0us Beacon (2WIRE156) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:35:09.608781 1.0 Mb/s 2417 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:09.611256 1.0 Mb/s 2417 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:09.655027 1.0 Mb/s 2427 MHz 11b -80dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:09.656797 1.0 Mb/s 2427 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:09.659107 1.0 Mb/s 2427 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:09.669946 2.0 Mb/s 2427 MHz 11b -86dB signal antenna 3 0us Beacon (2WIRE393) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 5, PRIVACY
+12:35:09.691614 1.0 Mb/s 2432 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:09.718066 1.0 Mb/s 2432 MHz 11b -77dB signal antenna 3 0us Beacon (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:35:09.724902 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:09.726034 2.0 Mb/s 2437 MHz 11b -75dB signal antenna 3 Retry 258us Probe Response (Cason) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:09.729106 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:09.737103 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:09.738605 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:09.808495 2.0 Mb/s 2462 MHz 11b -74dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:09.809501 2.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 Retry 258us Probe Response (2WIRE242) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:09.835477 2.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 0us Beacon (2WIRE621) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:12.021924 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:12.172168 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:12.172975 6.0 Mb/s 5785 MHz 11a -79dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:12.179775 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:12.431173 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:12.433862 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:12.437255 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 1, PRIVACY
+12:35:12.446216 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:12.449671 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:12.461497 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:12.466032 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:12.503376 1.0 Mb/s 2432 MHz 11b -82dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:12.513894 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:12.518313 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:12.556352 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:12.559811 1.0 Mb/s 2442 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:12.619336 2.0 Mb/s 2452 MHz 11b -84dB signal antenna 3 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:12.621993 2.0 Mb/s 2452 MHz 11b -83dB signal antenna 3 Retry 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:12.630659 2.0 Mb/s 2452 MHz 11b -85dB signal antenna 3 0us Beacon (2WIRE131) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 9, PRIVACY
+12:35:12.667279 2.0 Mb/s 2462 MHz 11b -75dB signal antenna 3 Retry 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:14.889137 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:15.039403 6.0 Mb/s 5785 MHz 11a -88dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:15.040459 6.0 Mb/s 5785 MHz 11a -79dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:15.046977 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:15.300113 1.0 Mb/s 2412 MHz 11b -67dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:15.302749 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:15.307934 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:35:15.328749 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:15.333264 1.0 Mb/s 2417 MHz 11b -67dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:15.335884 1.0 Mb/s 2417 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:15.373321 1.0 Mb/s 2422 MHz 11b -78dB signal antenna 3 0us Beacon (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:35:15.374630 1.0 Mb/s 2422 MHz 11b -72dB signal antenna 3 0us Beacon (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:35:15.401933 1.0 Mb/s 2427 MHz 11b -80dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:15.404306 2.0 Mb/s 2427 MHz 11b -86dB signal antenna 3 0us Beacon (2WIRE393) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 5, PRIVACY
+12:35:15.436912 1.0 Mb/s 2432 MHz 11b -75dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:15.473017 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:15.475367 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:15.476397 2.0 Mb/s 2437 MHz 11b -75dB signal antenna 3 Retry 258us Probe Response (Cason) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:15.479550 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:15.556506 2.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:15.557623 2.0 Mb/s 2462 MHz 11b -89dB signal antenna 3 Retry 258us Probe Response (2WIRE242) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:15.569949 2.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 0us Beacon (2WIRE621) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:15.576008 2.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 0us Beacon (2WIRE595) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:15.577438 2.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 0us Beacon (2WIRE242) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:15.584868 1.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 0us Beacon (LEK) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 11, PRIVACY
+12:35:17.756359 6.0 Mb/s 5745 MHz 11a -89dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:17.914182 6.0 Mb/s 5785 MHz 11a -83dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:17.915028 6.0 Mb/s 5785 MHz 11a -83dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:18.175847 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:18.186666 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:18.190003 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:18.193385 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:18.196053 1.0 Mb/s 2412 MHz 11b -88dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:18.202120 2.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 0us Beacon (2WIRE156) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:35:18.210589 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:18.233998 1.0 Mb/s 2427 MHz 11b -82dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:18.259194 2.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 Retry 258us Probe Response (Cason) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:18.260271 2.0 Mb/s 2437 MHz 11b -75dB signal antenna 3 Retry 258us Probe Response (Cason) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:18.261854 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:18.265400 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:18.297282 1.0 Mb/s 2442 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:18.298751 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:18.328371 1.0 Mb/s 2447 MHz 11b -84dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:18.340574 2.0 Mb/s 2452 MHz 11b -79dB signal antenna 3 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:18.364793 2.0 Mb/s 2462 MHz 11b -70dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:18.386400 2.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 0us Beacon (2WIRE484) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:20.623574 6.0 Mb/s 5745 MHz 11a -86dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:20.773851 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:20.781266 6.0 Mb/s 5785 MHz 11a -81dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:21.033215 1.0 Mb/s 2412 MHz 11b -65dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:21.035834 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:21.037580 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 314us Probe Response (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 1, PRIVACY
+12:35:21.041362 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:35:21.044558 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 0us Beacon (Sonya.Osborne) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:35:21.047917 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:21.063227 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:21.138883 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:21.143375 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:21.149158 1.0 Mb/s 2437 MHz 11b -90dB signal antenna 3 304us Probe Response (Wireless_N) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:21.162024 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6
+12:35:21.193205 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:21.268045 2.0 Mb/s 2462 MHz 11b -67dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:21.274748 1.0 Mb/s 2462 MHz 11b -77dB signal antenna 3 0us Beacon (ASUS_24) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:23.751037 6.0 Mb/s 5785 MHz 11a -77dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:23.752099 6.0 Mb/s 5785 MHz 11a -76dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:24.009792 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:24.017921 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:24.032920 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:24.039058 2.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 0us Beacon (2WIRE156) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:35:24.044541 1.0 Mb/s 2417 MHz 11b -73dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:24.090465 1.0 Mb/s 2427 MHz 11b -78dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:24.103251 1.0 Mb/s 2432 MHz 11b -74dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:24.108467 2.0 Mb/s 2432 MHz 11b -88dB signal antenna 3 0us Beacon (2WIRE393) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 5, PRIVACY
+12:35:24.131617 1.0 Mb/s 2432 MHz 11b -85dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6
+12:35:24.137666 1.0 Mb/s 2437 MHz 11b -72dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:24.156723 1.0 Mb/s 2437 MHz 11b -73dB signal antenna 3 0us Beacon (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:35:24.160825 2.0 Mb/s 2437 MHz 11b -87dB signal antenna 3 0us Beacon (GLADYS) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:24.175204 1.0 Mb/s 2442 MHz 11b -73dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:24.187467 1.0 Mb/s 2447 MHz 11b -78dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:24.189675 2.0 Mb/s 2447 MHz 11b -84dB signal antenna 3 Retry 258us Probe Response (2WIRE830) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 8, PRIVACY
+12:35:24.191126 2.0 Mb/s 2447 MHz 11b -84dB signal antenna 3 Retry 258us Probe Response (2WIRE830) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 8, PRIVACY
+12:35:24.200774 2.0 Mb/s 2447 MHz 11b -85dB signal antenna 3 0us Beacon (2WIRE830) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 8, PRIVACY
+12:35:24.240139 1.0 Mb/s 2457 MHz 11b -82dB signal antenna 3 0us Beacon (ASUS_24) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:24.246528 2.0 Mb/s 2462 MHz 11b -69dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:24.247523 2.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 Retry 258us Probe Response (2WIRE621) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:24.248458 2.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 Retry 258us Probe Response (2WIRE621) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:24.249423 2.0 Mb/s 2462 MHz 11b -86dB signal antenna 3 Retry 258us Probe Response (2WIRE621) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:24.274063 2.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 0us Beacon (2WIRE621) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:26.720632 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:26.721758 6.0 Mb/s 5785 MHz 11a -79dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:26.979814 1.0 Mb/s 2412 MHz 11b -67dB signal antenna 3 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:26.982454 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:26.988744 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 1, PRIVACY
+12:35:27.002550 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:27.043018 1.0 Mb/s 2427 MHz 11b -79dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:27.055280 1.0 Mb/s 2432 MHz 11b -75dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:27.057042 1.0 Mb/s 2432 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:27.078020 2.0 Mb/s 2432 MHz 11b -88dB signal antenna 3 0us Beacon (2WIRE393) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 5, PRIVACY
+12:35:27.090189 1.0 Mb/s 2437 MHz 11b -74dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:27.094575 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:27.101228 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6
+12:35:27.125177 1.0 Mb/s 2442 MHz 11b -75dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:27.126471 1.0 Mb/s 2442 MHz 11b -75dB signal antenna 3 0us Beacon (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:35:27.185117 2.0 Mb/s 2457 MHz 11b -71dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:27.187541 2.0 Mb/s 2457 MHz 11b -72dB signal antenna 3 Retry 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:27.219732 2.0 Mb/s 2462 MHz 11b -69dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:29.682760 6.0 Mb/s 5785 MHz 11a -88dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:29.683759 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:29.690273 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:29.941385 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:29.944089 1.0 Mb/s 2412 MHz 11b -67dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:29.944521 6.0 Mb/s 2412 MHz 11g -84dB signal antenna 3 50us Probe Response (Sonya.Osborne) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:29.950548 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:29.972127 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:29.976676 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:29.979264 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:29.981808 1.0 Mb/s 2417 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:29.987091 1.0 Mb/s 2417 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:30.069831 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:30.070778 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6
+12:35:30.074158 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:30.086687 2.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 0us Beacon (Cason) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:30.095946 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 0us Beacon (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:35:30.100179 2.0 Mb/s 2437 MHz 11b -84dB signal antenna 3 0us Beacon (GLADYS) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:30.104734 1.0 Mb/s 2442 MHz 11b -80dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:30.121734 1.0 Mb/s 2447 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:30.124192 1.0 Mb/s 2447 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:30.140042 2.0 Mb/s 2447 MHz 11b -86dB signal antenna 3 0us Beacon (2WIRE830) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 8, PRIVACY
+12:35:30.141279 2.0 Mb/s 2447 MHz 11b -85dB signal antenna 3 0us Beacon (2WIRE131) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 9, PRIVACY
+12:35:30.176400 2.0 Mb/s 2462 MHz 11b -81dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:30.179299 1.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 0us Beacon (ASUS_24) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:30.180942 2.0 Mb/s 2462 MHz 11b -88dB signal antenna 3 Retry 258us Probe Response (2WIRE242) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:30.186130 1.0 Mb/s 2462 MHz 11b -88dB signal antenna 3 0us Beacon (king) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:30.246269 6.0 Mb/s 5180 MHz 11a -89dB signal antenna 3 0us Beacon (Cisco_26200CB5) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:32.399665 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:32.557476 6.0 Mb/s 5785 MHz 11a -82dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:32.558407 6.0 Mb/s 5785 MHz 11a -82dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:32.816662 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:32.817619 2.0 Mb/s 2412 MHz 11b -72dB signal antenna 3 Retry 258us Probe Response (2WIRE156) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:35:32.819789 2.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 Retry 258us Probe Response (2WIRE156) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:35:32.821505 6.0 Mb/s 2412 MHz 11g -86dB signal antenna 3 50us Probe Response (Sonya.Osborne) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:32.824218 1.0 Mb/s 2412 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:32.830593 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:32.833815 1.0 Mb/s 2412 MHz 11b -88dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:32.839420 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:32.845564 2.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 0us Beacon (2WIRE156) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:35:32.851375 1.0 Mb/s 2417 MHz 11b -70dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:32.856585 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:32.885772 1.0 Mb/s 2422 MHz 11b -72dB signal antenna 3 0us Beacon (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:35:32.900439 1.0 Mb/s 2427 MHz 11b -83dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:32.905068 1.0 Mb/s 2427 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:32.947568 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:32.949640 2.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 258us Probe Response (Cason) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:32.954723 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:32.963249 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 0us Beacon (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:35:32.967401 2.0 Mb/s 2437 MHz 11b -86dB signal antenna 3 0us Beacon (GLADYS) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:33.008530 2.0 Mb/s 2452 MHz 11b -84dB signal antenna 3 0us Beacon (2WIRE131) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 9, PRIVACY
+12:35:33.009484 2.0 Mb/s 2452 MHz 11b -85dB signal antenna 3 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:35.266885 6.0 Mb/s 5745 MHz 11a -89dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:35.424702 6.0 Mb/s 5785 MHz 11a -82dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:35.425631 6.0 Mb/s 5785 MHz 11a -82dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:35.682761 1.0 Mb/s 2412 MHz 11b -69dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:35.685470 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:35.687677 2.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 258us Probe Response (2WIRE099) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:35:35.694042 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:35:35.698187 1.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:35.706662 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:35.712808 2.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 0us Beacon (2WIRE156) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:35:35.742509 1.0 Mb/s 2427 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:35.766807 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:35.768215 2.0 Mb/s 2437 MHz 11b -75dB signal antenna 3 Retry 258us Probe Response (Cason) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:35.771116 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:35.776877 1.0 Mb/s 2437 MHz 11b -88dB signal antenna 3 304us Probe Response (Wireless_N) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:35.826986 2.0 Mb/s 2452 MHz 11b -84dB signal antenna 3 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:35.829014 2.0 Mb/s 2452 MHz 11b -85dB signal antenna 3 Retry 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:35.831268 2.0 Mb/s 2452 MHz 11b -84dB signal antenna 3 Retry 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:35.851353 2.0 Mb/s 2452 MHz 11b -83dB signal antenna 3 0us Beacon (2WIRE595) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:35.873812 2.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:38.134105 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:38.284447 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:38.285219 6.0 Mb/s 5785 MHz 11a -77dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:38.291927 6.0 Mb/s 5785 MHz 11a -77dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:38.548571 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:38.552300 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:38.554945 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:38.557047 1.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 0us Beacon (Sonya.Osborne) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:35:38.560601 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:38.573842 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:38.639350 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:38.640330 2.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 Retry 258us Probe Response (Cason) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:38.641238 2.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 Retry 258us Probe Response (Cason) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:38.646625 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:38.669254 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:38.672434 1.0 Mb/s 2442 MHz 11b -83dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6
+12:35:38.711605 2.0 Mb/s 2452 MHz 11b -80dB signal antenna 3 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:38.718509 2.0 Mb/s 2452 MHz 11b -85dB signal antenna 3 0us Beacon (2WIRE595) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:38.743002 2.0 Mb/s 2452 MHz 11b -79dB signal antenna 3 0us Beacon (2WIRE131) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 9, PRIVACY
+12:35:38.758389 2.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:38.780840 1.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 0us Beacon (ASUS_24) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:38.787831 1.0 Mb/s 2462 MHz 11b -90dB signal antenna 3 0us Beacon (king) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:41.001363 6.0 Mb/s 5745 MHz 11a -86dB signal antenna 3 0us Beacon (MotoVAP_M91317SA66BC) [6.0* 9.0* 12.0* 18.0* 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:35:41.159135 6.0 Mb/s 5785 MHz 11a -78dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:41.160092 6.0 Mb/s 5785 MHz 11a -78dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:41.418284 1.0 Mb/s 2412 MHz 11b -69dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:41.420995 1.0 Mb/s 2412 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:41.429575 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:35:41.434246 1.0 Mb/s 2412 MHz 11b -88dB signal antenna 3 304us Probe Response (TG862G82) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:41.441123 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:41.447276 2.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 0us Beacon (2WIRE156) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:35:41.477374 1.0 Mb/s 2427 MHz 11b -84dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:41.490585 1.0 Mb/s 2432 MHz 11b -80dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:41.502850 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:41.506983 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:35:41.509594 1.0 Mb/s 2437 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:41.542923 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:41.544522 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:41.548186 1.0 Mb/s 2442 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:41.572465 1.0 Mb/s 2447 MHz 11b -83dB signal antenna 3 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:41.578578 1.0 Mb/s 2447 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:41.581230 1.0 Mb/s 2447 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:41.584101 1.0 Mb/s 2447 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:41.607574 2.0 Mb/s 2452 MHz 11b -81dB signal antenna 3 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:41.610170 2.0 Mb/s 2452 MHz 11b -81dB signal antenna 3 0us Beacon (2WIRE131) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 9, PRIVACY
+12:35:41.611276 2.0 Mb/s 2452 MHz 11b -81dB signal antenna 3 Retry 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:41.612534 2.0 Mb/s 2452 MHz 11b -82dB signal antenna 3 Retry 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:41.614216 2.0 Mb/s 2452 MHz 11b -82dB signal antenna 3 Retry 258us Probe Response (2WIRE131) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 9, PRIVACY
+12:35:41.648076 1.0 Mb/s 2457 MHz 11b -77dB signal antenna 3 0us Beacon (ASUS_24) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:41.654459 2.0 Mb/s 2462 MHz 11b -75dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:41.656652 2.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 Retry 258us Probe Response (2WIRE242) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:41.662293 1.0 Mb/s 2462 MHz 11b -89dB signal antenna 3 Retry 314us Probe Response (Crystalyn ) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+12:35:41.682320 2.0 Mb/s 2462 MHz 11b -86dB signal antenna 3 0us Beacon (2WIRE621) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:44.121487 6.0 Mb/s 5785 MHz 11a -90dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:44.128715 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:44.380361 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:44.382932 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:44.385707 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 1, PRIVACY
+12:35:44.391523 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:35:44.410668 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:44.415213 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:44.462847 1.0 Mb/s 2427 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:44.468744 1.0 Mb/s 2427 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:44.496116 1.0 Mb/s 2432 MHz 11b -79dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:44.508436 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:44.509353 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 0us Beacon (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6
+12:35:44.510139 6.0 Mb/s 2437 MHz 11g -88dB signal antenna 3 Retry 60us Probe Response (DIRECT-roku-503) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:44.511225 6.0 Mb/s 2437 MHz 11g -88dB signal antenna 3 Retry 60us Probe Response (DIRECT-roku-503) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:44.525220 2.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 0us Beacon (Cason) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:35:44.534503 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 0us Beacon (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:35:44.544530 1.0 Mb/s 2442 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (linksys) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6
+12:35:44.565873 2.0 Mb/s 2442 MHz 11b -85dB signal antenna 3 0us Beacon (2WIRE095) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 7, PRIVACY
+12:35:44.579955 1.0 Mb/s 2447 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:44.614637 2.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 258us Probe Response (2WIRE595) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:44.617616 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (ASUS_24) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:44.624684 1.0 Mb/s 2462 MHz 11b -90dB signal antenna 3 0us Beacon (king) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+12:35:47.090953 6.0 Mb/s 5785 MHz 11a -88dB signal antenna 3 0us Beacon (Cisco_0FD38F43) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:47.091914 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 60us Probe Response (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+12:35:47.098364 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+12:35:47.350278 1.0 Mb/s 2412 MHz 11b -73dB signal antenna 3 314us Probe Response (Nrsstu) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:47.352865 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (admin) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:35:47.358121 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (NETGEAR) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1
+12:35:47.380284 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (belkin) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1, PRIVACY
+12:35:47.411286 1.0 Mb/s 2427 MHz 11b -81dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:47.423672 1.0 Mb/s 2432 MHz 11b -79dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:47.427248 1.0 Mb/s 2432 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:47.433606 1.0 Mb/s 2432 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:47.458528 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:47.477066 1.0 Mb/s 2442 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:47.506734 1.0 Mb/s 2447 MHz 11b -84dB signal antenna 3 314us Probe Response (linksys_SES_29748) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:35:47.543076 2.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 258us Probe Response (2WIRE242) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:35:47.570584 2.0 Mb/s 2462 MHz 11b -90dB signal antenna 3 0us Beacon (2WIRE484) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:35:50.067996 6.0 Mb/s 5785 MHz 11a -80dB signal antenna 3 0us Beacon (Cisco_33D1CF66) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+

@@ -1,0 +1,4158 @@
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333609062455 usec (165d, 21:33:29)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798538342455 usec (449d, 01:22:18)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 6710 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798808166455 usec (449d, 01:26:48)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -72.00 dBm
+	last seen: 2880 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321301299255 usec (61d, 14:08:21)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -84.00 dBm
+	last seen: 2760 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333611929655 usec (165d, 21:33:31)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -83.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798538342455 usec (449d, 01:22:18)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 9603 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798808166455 usec (449d, 01:26:48)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -72.00 dBm
+	last seen: 5773 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321301299255 usec (61d, 14:08:21)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -84.00 dBm
+	last seen: 5653 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588919194102 usec (6d, 19:35:19)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -89.00 dBm
+	last seen: 2750 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 1] @ 15 dBm
+		Channels [2 - 10] @ 17 dBm
+		Channels [11 - 11] @ 15 dBm
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x1e (+ 1 octet)
+	ERP: Barker_Preamble_Mode
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Extended capabilities: HT Information Exchange Supported
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 5/255
+		 * available admission capacity: 31250 [*32us]
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333611929655 usec (165d, 21:33:31)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -83.00 dBm
+	last seen: 2893 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798538342455 usec (449d, 01:22:18)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 12496 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798808166455 usec (449d, 01:26:48)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -72.00 dBm
+	last seen: 8666 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321301299255 usec (61d, 14:08:21)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -84.00 dBm
+	last seen: 8546 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588922076166 usec (6d, 19:35:22)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -86.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 5/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333617766455 usec (165d, 21:33:37)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798538342455 usec (449d, 01:22:18)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 15386 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798816870455 usec (449d, 01:26:56)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -84.00 dBm
+	last seen: 2853 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321310003255 usec (61d, 14:08:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 2733 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588924968143 usec (6d, 19:35:24)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -89.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 5/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798492058123 usec (449d, 01:21:32)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -87.00 dBm
+	last seen: 2873 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333617766455 usec (165d, 21:33:37)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 2893 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798538342455 usec (449d, 01:22:18)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 18280 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798819737655 usec (449d, 01:26:59)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -75.00 dBm
+	last seen: 2880 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 2760 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588927856177 usec (6d, 19:35:27)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -89.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798492058123 usec (449d, 01:21:32)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -87.00 dBm
+	last seen: 5766 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333623500855 usec (165d, 21:33:43)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -87.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798556672055 usec (449d, 01:22:36)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -92.00 dBm
+	last seen: 2840 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798819737655 usec (449d, 01:26:59)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -75.00 dBm
+	last seen: 5770 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 5650 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798492058123 usec (449d, 01:21:32)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -87.00 dBm
+	last seen: 8656 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333623500855 usec (165d, 21:33:43)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -91.00 dBm
+	last seen: 2736 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798556672055 usec (449d, 01:22:36)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -92.00 dBm
+	last seen: 5710 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798819737655 usec (449d, 01:26:59)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -75.00 dBm
+	last seen: 8640 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 8520 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 2870 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798500761655 usec (449d, 01:21:40)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -83.00 dBm
+	last seen: 2823 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333629337655 usec (165d, 21:33:49)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -82.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798556672055 usec (449d, 01:22:36)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -92.00 dBm
+	last seen: 8600 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798819737655 usec (449d, 01:26:59)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -75.00 dBm
+	last seen: 11530 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 11410 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 5760 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798500761655 usec (449d, 01:21:40)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -83.00 dBm
+	last seen: 5713 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333632204855 usec (165d, 21:33:52)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -72.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798556672055 usec (449d, 01:22:36)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -92.00 dBm
+	last seen: 11493 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798831308855 usec (449d, 01:27:11)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -68.00 dBm
+	last seen: 2850 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 14303 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 8653 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798506496055 usec (449d, 01:21:46)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -69.00 dBm
+	last seen: 2873 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386748518455 usec (97d, 01:39:08)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 2866 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 0 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 2776 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798834176055 usec (449d, 01:27:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -77.00 dBm
+	last seen: 2836 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 17156 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 11506 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798506496055 usec (449d, 01:21:46)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -69.00 dBm
+	last seen: 5726 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386748518455 usec (97d, 01:39:08)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 5720 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798649139255 usec (449d, 01:24:09)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 2740 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 23 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 2893 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 5670 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798837043255 usec (449d, 01:27:17)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -87.00 dBm
+	last seen: 2863 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 20050 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 14400 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 2883 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 2880 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798649139255 usec (449d, 01:24:09)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 5633 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 2916 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 5763 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 8540 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798839911225 usec (449d, 01:27:19)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 2866 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 22920 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 17270 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 5753 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 5750 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798654873655 usec (449d, 01:24:14)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 2770 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 5786 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 8633 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 11410 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798839911225 usec (449d, 01:27:19)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 5736 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 25790 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 20140 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 8623 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 8620 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798654873655 usec (449d, 01:24:14)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 5640 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 8656 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:16:b6:a8:d7:41(on wlan0)
+	TSF: 1746440838620 usec (20d, 05:07:20)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 0 ms ago
+	SSID: edimax
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 
+	DS Parameter set: channel 6
+	ERP: Barker_Preamble_Mode
+	ERP D4.0: Barker_Preamble_Mode
+	Extended supported rates: 6.0 9.0 12.0 48.0 
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 11523 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 14300 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798839911225 usec (449d, 01:27:19)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 8626 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:0a(on wlan0)
+	TSF: 5321312870455 usec (61d, 14:08:32)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -90.00 dBm
+	last seen: 28680 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 23030 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 11513 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 11510 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798654873655 usec (449d, 01:24:14)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 8530 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 11546 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:16:b6:a8:d7:41(on wlan0)
+	TSF: 1746440838620 usec (20d, 05:07:20)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 2890 ms ago
+	SSID: edimax
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 
+	DS Parameter set: channel 6
+	ERP: Barker_Preamble_Mode
+	ERP D4.0: Barker_Preamble_Mode
+	Extended supported rates: 6.0 9.0 12.0 48.0 
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+BSS 74:44:01:04:d8:c5(on wlan0)
+	TSF: 295071067732 usec (3d, 09:57:51)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble ShortSlotTime (0x0431)
+	signal: -88.00 dBm
+	last seen: 0 ms ago
+	SSID: ATT1343
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 1
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	HT capabilities:
+		Capabilities: 0x1ac
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Overlapping BSS scan params:
+		 * passive dwell: 20 TUs
+		 * active dwell: 10 TUs
+		 * channel width trigger scan interval: 300 s
+		 * scan passive total per channel: 200 TUs
+		 * scan active total per channel: 20 TUs
+		 * BSS width channel transition delay factor: 5
+		 * OBSS Scan Activity Threshold: 0.25 %
+	Extended capabilities: HT Information Exchange Supported
+	WMM:	 * Parameter version 1
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 14393 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 17170 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798839911225 usec (449d, 01:27:19)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 11496 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 25900 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 14383 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 14380 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798654873655 usec (449d, 01:24:14)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 11400 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 14416 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:16:b6:a8:d7:41(on wlan0)
+	TSF: 1746440838620 usec (20d, 05:07:20)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 5760 ms ago
+	SSID: edimax
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 
+	DS Parameter set: channel 6
+	ERP: Barker_Preamble_Mode
+	ERP D4.0: Barker_Preamble_Mode
+	Extended supported rates: 6.0 9.0 12.0 48.0 
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+BSS 74:44:01:04:d8:c5(on wlan0)
+	TSF: 295071067732 usec (3d, 09:57:51)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble ShortSlotTime (0x0431)
+	signal: -88.00 dBm
+	last seen: 2870 ms ago
+	SSID: ATT1343
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 1
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	HT capabilities:
+		Capabilities: 0x1ac
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Overlapping BSS scan params:
+		 * passive dwell: 20 TUs
+		 * active dwell: 10 TUs
+		 * channel width trigger scan interval: 300 s
+		 * scan passive total per channel: 200 TUs
+		 * scan active total per channel: 20 TUs
+		 * BSS width channel transition delay factor: 5
+		 * OBSS Scan Activity Threshold: 0.25 %
+	Extended capabilities: HT Information Exchange Supported
+	WMM:	 * Parameter version 1
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 17263 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 20040 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798839911225 usec (449d, 01:27:19)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 14366 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:1d:d4:07:7c:a0(on wlan0)
+	TSF: 588930751468 usec (6d, 19:35:30)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime APSD (0x0c11)
+	signal: -91.00 dBm
+	last seen: 28770 ms ago
+	Information elements from Probe Response frame:
+	SSID: TG862GA2
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 
+	DS Parameter set: channel 11
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 6.0 12.0 24.0 48.0 
+	HT capabilities:
+		Capabilities: 0x6c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: no
+		 * non-GF present: 1
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	BSS Load:
+		 * station count: 1
+		 * channel utilisation: 6/255
+		 * available admission capacity: 31250 [*32us]
+	Extended capabilities: HT Information Exchange Supported
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 16 dBm
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 17253 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 17250 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798654873655 usec (449d, 01:24:14)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 14270 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 17286 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:16:b6:a8:d7:41(on wlan0)
+	TSF: 1746440838620 usec (20d, 05:07:20)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 8630 ms ago
+	SSID: edimax
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 
+	DS Parameter set: channel 6
+	ERP: Barker_Preamble_Mode
+	ERP D4.0: Barker_Preamble_Mode
+	Extended supported rates: 6.0 9.0 12.0 48.0 
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+BSS 74:44:01:04:d8:c5(on wlan0)
+	TSF: 295071067732 usec (3d, 09:57:51)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble ShortSlotTime (0x0431)
+	signal: -88.00 dBm
+	last seen: 5740 ms ago
+	SSID: ATT1343
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 1
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	HT capabilities:
+		Capabilities: 0x1ac
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Overlapping BSS scan params:
+		 * passive dwell: 20 TUs
+		 * active dwell: 10 TUs
+		 * channel width trigger scan interval: 300 s
+		 * scan passive total per channel: 200 TUs
+		 * scan active total per channel: 20 TUs
+		 * BSS width channel transition delay factor: 5
+		 * OBSS Scan Activity Threshold: 0.25 %
+	Extended capabilities: HT Information Exchange Supported
+	WMM:	 * Parameter version 1
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+BSS 00:8e:f2:fe:a9:73(on wlan0)
+	TSF: 1306057421184 usec (15d, 02:47:37)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble SpectrumMgmt ShortSlotTime (0x0531)
+	signal: -87.00 dBm
+	last seen: 2736 ms ago
+	Information elements from Probe Response frame:
+	SSID: SureWest-73
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 1 DTIM Period 2 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	Power constraint: 0 dB
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	HT capabilities:
+		Capabilities: 0x11cc
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 20133 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 22910 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798839911225 usec (449d, 01:27:19)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 17236 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 20123 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 20120 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798654873655 usec (449d, 01:24:14)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 17140 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 20156 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:16:b6:a8:d7:41(on wlan0)
+	TSF: 1746440838620 usec (20d, 05:07:20)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 11500 ms ago
+	SSID: edimax
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 
+	DS Parameter set: channel 6
+	ERP: Barker_Preamble_Mode
+	ERP D4.0: Barker_Preamble_Mode
+	Extended supported rates: 6.0 9.0 12.0 48.0 
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+BSS 74:44:01:04:d8:c5(on wlan0)
+	TSF: 295071067732 usec (3d, 09:57:51)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble ShortSlotTime (0x0431)
+	signal: -88.00 dBm
+	last seen: 8610 ms ago
+	SSID: ATT1343
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 1
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	HT capabilities:
+		Capabilities: 0x1ac
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Overlapping BSS scan params:
+		 * passive dwell: 20 TUs
+		 * active dwell: 10 TUs
+		 * channel width trigger scan interval: 300 s
+		 * scan passive total per channel: 200 TUs
+		 * scan active total per channel: 20 TUs
+		 * BSS width channel transition delay factor: 5
+		 * OBSS Scan Activity Threshold: 0.25 %
+	Extended capabilities: HT Information Exchange Supported
+	WMM:	 * Parameter version 1
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+BSS 00:8e:f2:fe:a9:73(on wlan0)
+	TSF: 1306057421184 usec (15d, 02:47:37)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble SpectrumMgmt ShortSlotTime (0x0531)
+	signal: -87.00 dBm
+	last seen: 5606 ms ago
+	Information elements from Probe Response frame:
+	SSID: SureWest-73
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 1 DTIM Period 2 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	Power constraint: 0 dB
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	HT capabilities:
+		Capabilities: 0x11cc
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 23003 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 25780 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798839911225 usec (449d, 01:27:19)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 20106 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 22993 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 22990 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798654873655 usec (449d, 01:24:14)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 20010 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 23026 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:16:b6:a8:d7:41(on wlan0)
+	TSF: 1746440838620 usec (20d, 05:07:20)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 14370 ms ago
+	SSID: edimax
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 
+	DS Parameter set: channel 6
+	ERP: Barker_Preamble_Mode
+	ERP D4.0: Barker_Preamble_Mode
+	Extended supported rates: 6.0 9.0 12.0 48.0 
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+BSS 74:44:01:04:d8:c5(on wlan0)
+	TSF: 295071067732 usec (3d, 09:57:51)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble ShortSlotTime (0x0431)
+	signal: -88.00 dBm
+	last seen: 11480 ms ago
+	SSID: ATT1343
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 1
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	HT capabilities:
+		Capabilities: 0x1ac
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Overlapping BSS scan params:
+		 * passive dwell: 20 TUs
+		 * active dwell: 10 TUs
+		 * channel width trigger scan interval: 300 s
+		 * scan passive total per channel: 200 TUs
+		 * scan active total per channel: 20 TUs
+		 * BSS width channel transition delay factor: 5
+		 * OBSS Scan Activity Threshold: 0.25 %
+	Extended capabilities: HT Information Exchange Supported
+	WMM:	 * Parameter version 1
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+BSS 00:8e:f2:fe:a9:73(on wlan0)
+	TSF: 1306057421184 usec (15d, 02:47:37)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble SpectrumMgmt ShortSlotTime (0x0531)
+	signal: -87.00 dBm
+	last seen: 8476 ms ago
+	Information elements from Probe Response frame:
+	SSID: SureWest-73
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 1 DTIM Period 2 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	Power constraint: 0 dB
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	HT capabilities:
+		Capabilities: 0x11cc
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 25873 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:af(on wlan0)
+	TSF: 38798568243255 usec (449d, 01:22:48)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -74.00 dBm
+	last seen: 28650 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 4
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x2
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798839911225 usec (449d, 01:27:19)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 22976 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 25863 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 25860 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798654873655 usec (449d, 01:24:14)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 22880 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 25896 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:16:b6:a8:d7:41(on wlan0)
+	TSF: 1746440838620 usec (20d, 05:07:20)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 17240 ms ago
+	SSID: edimax
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 
+	DS Parameter set: channel 6
+	ERP: Barker_Preamble_Mode
+	ERP D4.0: Barker_Preamble_Mode
+	Extended supported rates: 6.0 9.0 12.0 48.0 
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+BSS 74:44:01:04:d8:c5(on wlan0)
+	TSF: 295071067732 usec (3d, 09:57:51)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble ShortSlotTime (0x0431)
+	signal: -88.00 dBm
+	last seen: 14350 ms ago
+	SSID: ATT1343
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 1
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	HT capabilities:
+		Capabilities: 0x1ac
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Overlapping BSS scan params:
+		 * passive dwell: 20 TUs
+		 * active dwell: 10 TUs
+		 * channel width trigger scan interval: 300 s
+		 * scan passive total per channel: 200 TUs
+		 * scan active total per channel: 20 TUs
+		 * BSS width channel transition delay factor: 5
+		 * OBSS Scan Activity Threshold: 0.25 %
+	Extended capabilities: HT Information Exchange Supported
+	WMM:	 * Parameter version 1
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+BSS 00:8e:f2:fe:a9:73(on wlan0)
+	TSF: 1306066022784 usec (15d, 02:47:46)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble SpectrumMgmt ShortSlotTime (0x0531)
+	signal: -82.00 dBm
+	last seen: 2743 ms ago
+	Information elements from Probe Response frame:
+	SSID: SureWest-73
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 1 DTIM Period 2 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	Power constraint: 0 dB
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	HT capabilities:
+		Capabilities: 0x11cc
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:12:a9:14:6b:d8(on wlan0)
+	TSF: 14333635072055 usec (165d, 21:33:55)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -86.00 dBm
+	last seen: 28743 ms ago
+	Information elements from Probe Response frame:
+	SSID: kcmsdwireless
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 11
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:32:a6(on wlan0)
+	TSF: 38798839911225 usec (449d, 01:27:19)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -88.00 dBm
+	last seen: 25846 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:4e(on wlan0)
+	TSF: 38798512230455 usec (449d, 01:21:52)
+	freq: 2417
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -73.00 dBm
+	last seen: 28733 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 2
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x8 Bitmap[0] 0x20
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:16:b2:6e(on wlan0)
+	TSF: 8386754252855 usec (97d, 01:39:14)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -78.00 dBm
+	last seen: 28730 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 1
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:12:a9:13:31:7d(on wlan0)
+	TSF: 38798654873655 usec (449d, 01:24:14)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -79.00 dBm
+	last seen: 25750 ms ago
+	Information elements from Probe Response frame:
+	SSID: \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 
+	DS Parameter set: channel 9
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0xc Bitmap[0] 0x20 (+ 19 octets)
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	ERP: Barker_Preamble_Mode
+	Extended supported rates: 9.0 18.0 48.0 54.0 
+BSS 00:15:6d:fe:d2:f5(on wlan0)
+	TSF: 4806107237430 usec (55d, 15:01:47)
+	freq: 5825
+	beacon interval: 100 TUs
+	capability: ESS Privacy SpectrumMgmt ShortSlotTime (0x0511)
+	signal: -84.00 dBm
+	last seen: 28766 ms ago
+	Information elements from Probe Response frame:
+	SSID: ctcco.com.HytE
+	Supported rates: 6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 
+	DS Parameter set: channel 165
+	TIM: DTIM Count 0 DTIM Period 1 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor only
+		Channels [36 - 36] @ 17 dBm
+		Channels [40 - 40] @ 17 dBm
+		Channels [44 - 44] @ 17 dBm
+		Channels [48 - 48] @ 17 dBm
+		Channels [52 - 52] @ 20 dBm
+		Channels [56 - 56] @ 20 dBm
+		Channels [60 - 60] @ 20 dBm
+		Channels [64 - 64] @ 20 dBm
+		Channels [149 - 149] @ 30 dBm
+		Channels [153 - 153] @ 30 dBm
+		Channels [157 - 157] @ 30 dBm
+		Channels [161 - 161] @ 30 dBm
+		Channels [165 - 165] @ 30 dBm
+	Power constraint: 13 dB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	HT capabilities:
+		Capabilities: 0x4c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 165
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 0
+		 * HT protection: nonmember
+		 * non-GF present: 0
+		 * OBSS non-GF present: 1
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+BSS 00:16:b6:a8:d7:41(on wlan0)
+	TSF: 1746440838620 usec (20d, 05:07:20)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortSlotTime (0x0411)
+	signal: -85.00 dBm
+	last seen: 20110 ms ago
+	SSID: edimax
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 
+	DS Parameter set: channel 6
+	ERP: Barker_Preamble_Mode
+	ERP D4.0: Barker_Preamble_Mode
+	Extended supported rates: 6.0 9.0 12.0 48.0 
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+BSS 74:44:01:04:d8:c5(on wlan0)
+	TSF: 295071067732 usec (3d, 09:57:51)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble ShortSlotTime (0x0431)
+	signal: -88.00 dBm
+	last seen: 17220 ms ago
+	SSID: ATT1343
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 1
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	HT capabilities:
+		Capabilities: 0x1ac
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0
+	Overlapping BSS scan params:
+		 * passive dwell: 20 TUs
+		 * active dwell: 10 TUs
+		 * channel width trigger scan interval: 300 s
+		 * scan passive total per channel: 200 TUs
+		 * scan active total per channel: 20 TUs
+		 * BSS width channel transition delay factor: 5
+		 * OBSS Scan Activity Threshold: 0.25 %
+	Extended capabilities: HT Information Exchange Supported
+	WMM:	 * Parameter version 1
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+BSS 00:8e:f2:fe:a9:73(on wlan0)
+	TSF: 1306068889984 usec (15d, 02:47:48)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS Privacy ShortPreamble SpectrumMgmt ShortSlotTime (0x0531)
+	signal: -86.00 dBm
+	last seen: 2746 ms ago
+	Information elements from Probe Response frame:
+	SSID: SureWest-73
+	Supported rates: 1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 
+	DS Parameter set: channel 11
+	TIM: DTIM Count 1 DTIM Period 2 Bitmap Control 0x0 Bitmap[0] 0x0
+	Country: US	Environment: Indoor/Outdoor
+		Channels [1 - 11] @ 27 dBm
+	Power constraint: 0 dB
+	ERP: <no flags>
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: (0x0000)
+	WPA:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+	Extended supported rates: 24.0 36.0 48.0 54.0 
+	WMM:	 * Parameter version 1
+		 * u-APSD
+		 * BE: CW 15-1023, AIFSN 3
+		 * BK: CW 15-1023, AIFSN 7
+		 * VI: CW 7-15, AIFSN 2, TXOP 3008 usec
+		 * VO: CW 3-7, AIFSN 2, TXOP 1504 usec
+	HT capabilities:
+		Capabilities: 0x11cc
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+		 * RIFS: 1
+		 * HT protection: no
+		 * non-GF present: 0
+		 * OBSS non-GF present: 0
+		 * dual beacon: 0
+		 * dual CTS protection: 0
+		 * STBC beacon: 0
+		 * L-SIG TXOP Prot: 0
+		 * PCO active: 0
+		 * PCO phase: 0

@@ -1,0 +1,497 @@
+13:04:24.360660 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:24.362716 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:24.432683 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:24.435139 1.0 Mb/s 2432 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:24.459728 1.0 Mb/s 2432 MHz 11b -86dB signal antenna 3 0us Beacon (franks) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 6, PRIVACY
+13:04:24.467608 1.0 Mb/s 2437 MHz 11b -67dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:24.470040 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:24.498112 1.0 Mb/s 2437 MHz 11b -69dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:24.547721 1.0 Mb/s 2457 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:24.549656 1.0 Mb/s 2457 MHz 11b -85dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:24.553988 1.0 Mb/s 2457 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:24.562178 1.0 Mb/s 2457 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:24.575514 1.0 Mb/s 2462 MHz 11b -76dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:24.577554 1.0 Mb/s 2462 MHz 11b -77dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:24.579671 1.0 Mb/s 2462 MHz 11b -82dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:24.607449 1.0 Mb/s 2462 MHz 11b -74dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:26.776166 6.0 Mb/s 5745 MHz 11a -86dB signal antenna 3 0us Beacon (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+13:04:26.777008 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 60us Probe Response (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+13:04:27.262672 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:27.264611 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:27.267553 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:27.293882 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:27.297639 1.0 Mb/s 2417 MHz 11b -76dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:27.309911 1.0 Mb/s 2422 MHz 11b -80dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:27.346900 1.0 Mb/s 2427 MHz 11b -81dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:27.353263 1.0 Mb/s 2427 MHz 11b -83dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:04:27.365357 1.0 Mb/s 2427 MHz 11b -73dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:27.382675 1.0 Mb/s 2432 MHz 11b -67dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.385126 1.0 Mb/s 2432 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.387572 1.0 Mb/s 2432 MHz 11b -67dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.390040 1.0 Mb/s 2432 MHz 11b -67dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.397923 1.0 Mb/s 2432 MHz 11b -83dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:27.415164 1.0 Mb/s 2437 MHz 11b -64dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.417594 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.419548 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:04:27.424932 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.429435 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 0us Beacon (franks) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 6, PRIVACY
+13:04:27.462366 1.0 Mb/s 2447 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.464803 1.0 Mb/s 2447 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.467205 1.0 Mb/s 2447 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:27.469389 1.0 Mb/s 2447 MHz 11b -70dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:27.496914 1.0 Mb/s 2452 MHz 11b -76dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:27.499042 1.0 Mb/s 2452 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:27.501365 1.0 Mb/s 2452 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:27.503748 1.0 Mb/s 2452 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:27.520986 1.0 Mb/s 2452 MHz 11b -77dB signal antenna 3 0us Beacon (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:27.533147 1.0 Mb/s 2457 MHz 11b -83dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:27.536604 1.0 Mb/s 2457 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:27.538610 1.0 Mb/s 2457 MHz 11b -82dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:27.540717 1.0 Mb/s 2457 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:27.546572 1.0 Mb/s 2457 MHz 11b -74dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:27.567942 1.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:27.569885 1.0 Mb/s 2462 MHz 11b -81dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:27.572049 1.0 Mb/s 2462 MHz 11b -74dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:27.577608 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:27.579436 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:04:27.585748 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 0us Beacon (print server 51571D) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:04:29.848465 6.0 Mb/s 5745 MHz 11a -86dB signal antenna 3 0us Beacon (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+13:04:29.849462 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 60us Probe Response (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+13:04:30.333671 1.0 Mb/s 2412 MHz 11b -73dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:30.339564 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:30.365849 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:30.369580 1.0 Mb/s 2417 MHz 11b -74dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:30.381869 1.0 Mb/s 2422 MHz 11b -77dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:30.396262 1.0 Mb/s 2427 MHz 11b -78dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:30.406979 1.0 Mb/s 2432 MHz 11b -76dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:30.416647 1.0 Mb/s 2432 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:30.437378 1.0 Mb/s 2432 MHz 11b -76dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:30.444264 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:30.446795 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:30.448855 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:04:30.469850 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:30.474192 1.0 Mb/s 2437 MHz 11b -89dB signal antenna 3 0us Beacon (Millstm) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:30.517018 1.0 Mb/s 2457 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:30.519085 1.0 Mb/s 2457 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:30.525060 1.0 Mb/s 2457 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:30.546640 1.0 Mb/s 2457 MHz 11b -83dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:30.553077 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:30.555106 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:30.557333 1.0 Mb/s 2462 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:32.817816 6.0 Mb/s 5745 MHz 11a -84dB signal antenna 3 0us Beacon (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+13:04:32.818637 6.0 Mb/s 5745 MHz 11a -83dB signal antenna 3 60us Probe Response (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+13:04:33.303932 1.0 Mb/s 2412 MHz 11b -66dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:33.305933 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:33.309147 1.0 Mb/s 2412 MHz 11b -66dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:33.335465 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:33.341490 1.0 Mb/s 2417 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:33.346404 1.0 Mb/s 2417 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:33.351200 1.0 Mb/s 2417 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:33.353546 1.0 Mb/s 2417 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:33.376212 1.0 Mb/s 2422 MHz 11b -85dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:33.388477 1.0 Mb/s 2427 MHz 11b -85dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:33.406977 1.0 Mb/s 2432 MHz 11b -78dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:33.411626 1.0 Mb/s 2437 MHz 11b -65dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:33.414057 1.0 Mb/s 2437 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:33.439471 1.0 Mb/s 2437 MHz 11b -71dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:33.444223 1.0 Mb/s 2437 MHz 11b -90dB signal antenna 3 0us Beacon (Millstm) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:33.486715 1.0 Mb/s 2457 MHz 11b -75dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:33.493735 1.0 Mb/s 2457 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:33.495654 1.0 Mb/s 2457 MHz 11b -74dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:33.516361 1.0 Mb/s 2457 MHz 11b -72dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:33.522812 1.0 Mb/s 2462 MHz 11b -70dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:33.524875 1.0 Mb/s 2462 MHz 11b -71dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:33.527418 1.0 Mb/s 2462 MHz 11b -65dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:36.290246 1.0 Mb/s 2412 MHz 11b -64dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:36.292674 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:36.294637 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:36.305099 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:36.328704 1.0 Mb/s 2417 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:36.375204 1.0 Mb/s 2427 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:36.380130 1.0 Mb/s 2427 MHz 11b -64dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:36.382508 1.0 Mb/s 2427 MHz 11b -62dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:36.389006 1.0 Mb/s 2427 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:36.407620 1.0 Mb/s 2432 MHz 11b -59dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:36.409928 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:36.442586 1.0 Mb/s 2437 MHz 11b -55dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:36.445058 1.0 Mb/s 2437 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:36.446524 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:04:36.451465 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:36.479954 1.0 Mb/s 2442 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:36.482335 1.0 Mb/s 2442 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:36.484545 1.0 Mb/s 2442 MHz 11b -59dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:36.489489 1.0 Mb/s 2442 MHz 11b -60dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:36.491944 1.0 Mb/s 2442 MHz 11b -59dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:36.528581 1.0 Mb/s 2452 MHz 11b -82dB signal antenna 3 0us Beacon (print server 583B2A) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:04:36.549372 1.0 Mb/s 2457 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:36.552877 1.0 Mb/s 2457 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:36.554879 1.0 Mb/s 2457 MHz 11b -78dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:36.574735 1.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:36.578278 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:36.580203 1.0 Mb/s 2462 MHz 11b -77dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:36.588350 1.0 Mb/s 2462 MHz 11b -77dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:36.590442 1.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:04:36.596461 1.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 0us Beacon (print server 51571D) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:04:38.859721 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 0us Beacon (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+13:04:38.860617 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 60us Probe Response (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+13:04:39.347709 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:39.350202 1.0 Mb/s 2412 MHz 11b -67dB signal antenna 3 Retry 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:39.351807 1.0 Mb/s 2412 MHz 11b -73dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:39.353730 1.0 Mb/s 2412 MHz 11b -72dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:39.377020 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:39.386185 1.0 Mb/s 2417 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:39.390565 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:39.392512 1.0 Mb/s 2417 MHz 11b -74dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:39.394652 1.0 Mb/s 2417 MHz 11b -74dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:39.399559 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 0us Beacon (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:39.407361 1.0 Mb/s 2417 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:39.415798 1.0 Mb/s 2422 MHz 11b -79dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:39.430564 1.0 Mb/s 2427 MHz 11b -76dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:39.433361 1.0 Mb/s 2427 MHz 11b -75dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:04:39.448611 1.0 Mb/s 2427 MHz 11b -64dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:39.468384 1.0 Mb/s 2432 MHz 11b -59dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:39.470767 1.0 Mb/s 2432 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:39.475624 1.0 Mb/s 2432 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:39.481079 1.0 Mb/s 2432 MHz 11b -69dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:39.498415 1.0 Mb/s 2437 MHz 11b -57dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:39.500890 1.0 Mb/s 2437 MHz 11b -66dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:39.502792 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:04:39.512848 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 0us Beacon (franks) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 6, PRIVACY
+13:04:39.528078 1.0 Mb/s 2437 MHz 11b -89dB signal antenna 3 0us Beacon (ATT256) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:39.533336 1.0 Mb/s 2442 MHz 11b -69dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:39.535794 1.0 Mb/s 2442 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:39.538094 1.0 Mb/s 2442 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:39.540615 1.0 Mb/s 2442 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:39.581536 1.0 Mb/s 2452 MHz 11b -78dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:39.585022 1.0 Mb/s 2452 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:39.588552 1.0 Mb/s 2452 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:39.592009 1.0 Mb/s 2452 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:39.600124 1.0 Mb/s 2452 MHz 11b -81dB signal antenna 3 0us Beacon (print server 583B2A) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:04:39.604187 1.0 Mb/s 2452 MHz 11b -75dB signal antenna 3 0us Beacon (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:39.620938 1.0 Mb/s 2457 MHz 11b -74dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:39.627262 1.0 Mb/s 2457 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:39.651172 1.0 Mb/s 2462 MHz 11b -71dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:39.653251 1.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:39.655354 1.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:39.661031 1.0 Mb/s 2462 MHz 11b -70dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:39.663023 1.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:04:39.668437 1.0 Mb/s 2462 MHz 11b -76dB signal antenna 3 0us Beacon (print server 51571D) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:04:42.419824 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:42.422284 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:42.423805 1.0 Mb/s 2412 MHz 11b -73dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:42.425916 1.0 Mb/s 2412 MHz 11b -72dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:42.449131 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:42.454535 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:42.456506 1.0 Mb/s 2417 MHz 11b -75dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:42.489016 1.0 Mb/s 2422 MHz 11b -79dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:42.494803 1.0 Mb/s 2422 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:42.524431 1.0 Mb/s 2427 MHz 11b -64dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:42.529318 1.0 Mb/s 2427 MHz 11b -64dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:42.531677 1.0 Mb/s 2427 MHz 11b -63dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:42.536882 1.0 Mb/s 2427 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:42.553091 1.0 Mb/s 2427 MHz 11b -76dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:42.559391 1.0 Mb/s 2432 MHz 11b -71dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:42.561810 1.0 Mb/s 2432 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:42.566958 1.0 Mb/s 2432 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:42.584916 1.0 Mb/s 2432 MHz 11b -80dB signal antenna 3 0us Beacon (franks) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 6, PRIVACY
+13:04:42.594306 1.0 Mb/s 2437 MHz 11b -57dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:42.596741 1.0 Mb/s 2437 MHz 11b -66dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:42.598634 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:04:42.623034 1.0 Mb/s 2437 MHz 11b -58dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:42.666933 1.0 Mb/s 2457 MHz 11b -73dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:42.671073 1.0 Mb/s 2457 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:42.673227 1.0 Mb/s 2457 MHz 11b -73dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:42.677475 1.0 Mb/s 2457 MHz 11b -72dB signal antenna 3 0us Beacon (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:42.701705 1.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:42.703769 1.0 Mb/s 2462 MHz 11b -71dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:42.705780 1.0 Mb/s 2462 MHz 11b -71dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:42.732376 1.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:44.901256 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 0us Beacon (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+13:04:44.902242 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 60us Probe Response (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+13:04:45.387777 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:45.390335 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:45.392720 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:45.394297 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:45.396283 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:45.418671 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:45.427841 1.0 Mb/s 2417 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:45.430408 1.0 Mb/s 2417 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:45.432649 1.0 Mb/s 2417 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:45.439794 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 0us Beacon (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:45.463105 1.0 Mb/s 2422 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:45.467516 1.0 Mb/s 2422 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:45.478165 1.0 Mb/s 2422 MHz 11b -78dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:04:45.493906 1.0 Mb/s 2427 MHz 11b -64dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.496333 1.0 Mb/s 2427 MHz 11b -63dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.502824 1.0 Mb/s 2427 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:45.522695 1.0 Mb/s 2427 MHz 11b -76dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:45.532644 1.0 Mb/s 2432 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.535026 1.0 Mb/s 2432 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.554637 1.0 Mb/s 2432 MHz 11b -79dB signal antenna 3 0us Beacon (franks) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 6, PRIVACY
+13:04:45.562714 1.0 Mb/s 2437 MHz 11b -57dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.565164 1.0 Mb/s 2437 MHz 11b -68dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.566963 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:04:45.569703 1.0 Mb/s 2437 MHz 11b -88dB signal antenna 3 0us Beacon (ATT256) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:45.576468 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:04:45.592541 1.0 Mb/s 2437 MHz 11b -58dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:45.602364 1.0 Mb/s 2442 MHz 11b -61dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.604863 1.0 Mb/s 2442 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.624976 1.0 Mb/s 2442 MHz 11b -69dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:45.632494 1.0 Mb/s 2447 MHz 11b -72dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.634901 1.0 Mb/s 2447 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.637321 1.0 Mb/s 2447 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.639917 1.0 Mb/s 2447 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.642272 1.0 Mb/s 2447 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.644620 1.0 Mb/s 2447 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.647017 1.0 Mb/s 2447 MHz 11b -71dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:45.702463 1.0 Mb/s 2457 MHz 11b -71dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:45.704421 1.0 Mb/s 2457 MHz 11b -71dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:04:45.738184 1.0 Mb/s 2462 MHz 11b -68dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:45.740220 1.0 Mb/s 2462 MHz 11b -69dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:45.742275 1.0 Mb/s 2462 MHz 11b -71dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:45.744484 1.0 Mb/s 2462 MHz 11b -75dB signal antenna 3 0us Beacon (print server 583B2A) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:04:45.748978 1.0 Mb/s 2462 MHz 11b -70dB signal antenna 3 0us Beacon (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:47.973207 6.0 Mb/s 5745 MHz 11a -84dB signal antenna 3 0us Beacon (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+13:04:47.974090 6.0 Mb/s 5745 MHz 11a -84dB signal antenna 3 60us Probe Response (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+13:04:48.459238 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:48.461062 1.0 Mb/s 2412 MHz 11b -72dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:48.464460 1.0 Mb/s 2412 MHz 11b -73dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:48.490682 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:48.494449 1.0 Mb/s 2417 MHz 11b -74dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:48.515023 1.0 Mb/s 2422 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:48.543745 1.0 Mb/s 2427 MHz 11b -82dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:48.550187 1.0 Mb/s 2427 MHz 11b -83dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:04:48.577112 1.0 Mb/s 2432 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:48.589319 1.0 Mb/s 2432 MHz 11b -71dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:48.591854 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:48.612013 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:48.614469 1.0 Mb/s 2437 MHz 11b -74dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:48.699323 1.0 Mb/s 2462 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:48.701397 1.0 Mb/s 2462 MHz 11b -70dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:48.703491 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:48.708055 1.0 Mb/s 2462 MHz 11b -82dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:48.710125 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:48.712115 1.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:48.713850 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 0us Beacon (print server 583B2A) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:04:48.718973 1.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 0us Beacon (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:50.942916 6.0 Mb/s 5745 MHz 11a -84dB signal antenna 3 0us Beacon (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+13:04:50.943679 6.0 Mb/s 5745 MHz 11a -83dB signal antenna 3 60us Probe Response (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+13:04:51.429534 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:51.431486 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:51.434032 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:51.460292 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:51.464037 1.0 Mb/s 2417 MHz 11b -77dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:51.490891 1.0 Mb/s 2427 MHz 11b -77dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:51.513890 1.0 Mb/s 2437 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:51.516310 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:51.518222 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:04:51.531894 1.0 Mb/s 2437 MHz 11b -73dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:51.551200 1.0 Mb/s 2442 MHz 11b -74dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:51.564345 1.0 Mb/s 2442 MHz 11b -78dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:51.609200 1.0 Mb/s 2457 MHz 11b -81dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:51.619631 1.0 Mb/s 2457 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:51.623019 1.0 Mb/s 2457 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:51.627217 1.0 Mb/s 2457 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:51.643073 1.0 Mb/s 2462 MHz 11b -81dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:04:51.647592 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:51.649659 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:51.651843 1.0 Mb/s 2462 MHz 11b -74dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:54.413184 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:54.415613 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:54.419510 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:54.429968 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:54.447887 1.0 Mb/s 2417 MHz 11b -72dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:54.476129 1.0 Mb/s 2427 MHz 11b -78dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:54.503394 1.0 Mb/s 2437 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:54.505576 1.0 Mb/s 2437 MHz 11b -75dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:54.508095 1.0 Mb/s 2437 MHz 11b -71dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:54.509439 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:04:54.522697 1.0 Mb/s 2437 MHz 11b -90dB signal antenna 3 0us Beacon (mumineen) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+13:04:54.538975 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 0us Beacon (Millstm) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:54.587478 1.0 Mb/s 2462 MHz 11b -82dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:54.589532 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:54.591559 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:54.611054 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:54.613041 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:04:57.357533 1.0 Mb/s 2412 MHz 11b -72dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:57.359538 1.0 Mb/s 2412 MHz 11b -67dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:57.373267 1.0 Mb/s 2412 MHz 11b -69dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:57.394012 1.0 Mb/s 2417 MHz 11b -70dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:57.405804 1.0 Mb/s 2417 MHz 11b -87dB signal antenna 3 Retry 314us Probe Response (ARRAKIS) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 2, PRIVACY
+13:04:57.420662 1.0 Mb/s 2417 MHz 11b -73dB signal antenna 3 0us Beacon (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:04:57.426663 1.0 Mb/s 2422 MHz 11b -73dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:04:57.440999 1.0 Mb/s 2427 MHz 11b -84dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:04:57.451755 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:57.467951 1.0 Mb/s 2437 MHz 11b -68dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:57.470258 1.0 Mb/s 2437 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:04:57.472518 1.0 Mb/s 2437 MHz 11b -73dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:57.474961 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:04:57.503483 1.0 Mb/s 2442 MHz 11b -71dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:04:57.540857 1.0 Mb/s 2457 MHz 11b -80dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:57.544362 1.0 Mb/s 2457 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:57.547802 1.0 Mb/s 2457 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:57.549999 1.0 Mb/s 2457 MHz 11b -82dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:57.552005 1.0 Mb/s 2457 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:57.554015 1.0 Mb/s 2457 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:57.556085 1.0 Mb/s 2457 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:57.558148 1.0 Mb/s 2457 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:57.575625 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:57.577604 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:04:57.579735 1.0 Mb/s 2462 MHz 11b -75dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:04:57.583231 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:04:57.585247 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:04:57.589149 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (print server 51571D) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:04:57.593842 1.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 0us Beacon (ATT632) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:05:00.346364 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:00.348788 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:00.350936 1.0 Mb/s 2412 MHz 11b -71dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:00.369142 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:00.393572 1.0 Mb/s 2422 MHz 11b -76dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:00.407933 1.0 Mb/s 2427 MHz 11b -78dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:00.433270 1.0 Mb/s 2437 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:00.435707 1.0 Mb/s 2437 MHz 11b -74dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:00.437938 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:05:00.440747 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:00.461905 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 0us Beacon (mumineen) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+13:05:00.473109 1.0 Mb/s 2442 MHz 11b -74dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:00.490235 1.0 Mb/s 2452 MHz 11b -85dB signal antenna 3 0us Beacon (print server 583B2A) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:05:00.502586 1.0 Mb/s 2457 MHz 11b -82dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:00.516192 1.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:00.518227 1.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:05:00.520315 1.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:02.718829 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+13:05:02.719705 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 60us Probe Response (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit], PRIVACY
+13:05:03.205823 1.0 Mb/s 2412 MHz 11b -67dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:03.210071 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:03.240076 1.0 Mb/s 2417 MHz 11b -72dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:03.267372 1.0 Mb/s 2427 MHz 11b -81dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:03.270146 1.0 Mb/s 2427 MHz 11b -86dB signal antenna 3 0us Beacon (franks) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 6, PRIVACY
+13:05:03.317471 1.0 Mb/s 2437 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:03.319901 1.0 Mb/s 2437 MHz 11b -66dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:03.328259 1.0 Mb/s 2437 MHz 11b -65dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:03.330688 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:03.333214 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:05:03.340333 1.0 Mb/s 2437 MHz 11b -65dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:03.345023 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 0us Beacon (Millstm) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:03.347795 1.0 Mb/s 2437 MHz 11b -86dB signal antenna 3 0us Beacon (ATT200) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:03.357067 1.0 Mb/s 2442 MHz 11b -68dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:03.402554 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:03.404620 1.0 Mb/s 2462 MHz 11b -81dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:05:03.417461 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:05:03.419255 1.0 Mb/s 2462 MHz 11b -81dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:05:03.426285 1.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 0us Beacon (print server 51571D) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:05:03.430632 1.0 Mb/s 2462 MHz 11b -90dB signal antenna 3 0us Beacon (ATT632) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:05:06.172806 1.0 Mb/s 2412 MHz 11b -69dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:06.179989 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:06.209279 1.0 Mb/s 2417 MHz 11b -71dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:06.214163 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:06.216539 1.0 Mb/s 2417 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:06.219119 1.0 Mb/s 2417 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:06.224013 1.0 Mb/s 2417 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:06.227296 1.0 Mb/s 2417 MHz 11b -70dB signal antenna 3 0us Beacon (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:06.256385 1.0 Mb/s 2427 MHz 11b -71dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:06.269596 1.0 Mb/s 2432 MHz 11b -72dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:05:06.281029 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:06.295699 1.0 Mb/s 2442 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:06.309945 1.0 Mb/s 2447 MHz 11b -84dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:06.342335 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:09.093347 1.0 Mb/s 2412 MHz 11b -62dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:09.095519 1.0 Mb/s 2412 MHz 11b -60dB signal antenna 3 0us Beacon (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:09.097659 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:09.127586 1.0 Mb/s 2417 MHz 11b -77dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:09.132718 1.0 Mb/s 2417 MHz 11b -78dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:05:09.149308 1.0 Mb/s 2417 MHz 11b -79dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:09.177620 1.0 Mb/s 2427 MHz 11b -73dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:09.192373 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:09.209485 1.0 Mb/s 2432 MHz 11b -82dB signal antenna 3 0us Beacon (franks) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 6, PRIVACY
+13:05:09.223104 1.0 Mb/s 2437 MHz 11b -71dB signal antenna 3 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:09.225533 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:09.227493 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:05:09.230954 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:05:09.247225 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:09.260586 1.0 Mb/s 2442 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:09.313668 1.0 Mb/s 2462 MHz 11b -88dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:09.315706 1.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:05:09.317672 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:11.525409 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (FunnyRabbit) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS, PRIVACY
+13:05:11.999598 1.0 Mb/s 2412 MHz 11b -58dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:12.001563 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:12.016546 1.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:12.061099 1.0 Mb/s 2427 MHz 11b -73dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:12.083010 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 314us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:05:12.084343 1.0 Mb/s 2437 MHz 11b -74dB signal antenna 3 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:05:12.088875 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:12.106431 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:05:12.114443 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:12.146749 1.0 Mb/s 2442 MHz 11b -80dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:12.179057 1.0 Mb/s 2457 MHz 11b -78dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:12.184443 1.0 Mb/s 2457 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:12.187795 1.0 Mb/s 2457 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:12.191968 1.0 Mb/s 2457 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:12.217535 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:12.219554 1.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:05:12.222423 1.0 Mb/s 2462 MHz 11b -88dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:12.225285 1.0 Mb/s 2462 MHz 11b -82dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:05:12.227117 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:05:12.232044 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (print server 51571D) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:05:12.237021 1.0 Mb/s 2462 MHz 11b -89dB signal antenna 3 0us Beacon (ATT632) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:05:14.984751 1.0 Mb/s 2412 MHz 11b -68dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:14.987283 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:14.989268 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:15.000011 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 0us Beacon (NETGEAR-24-G) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 2, PRIVACY
+13:05:15.012350 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (ATT696) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:15.033370 1.0 Mb/s 2422 MHz 11b -77dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:15.045672 1.0 Mb/s 2427 MHz 11b -75dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:15.057837 1.0 Mb/s 2432 MHz 11b -77dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:15.062206 1.0 Mb/s 2432 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:15.090238 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 314us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:05:15.093711 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:15.095631 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 0us Probe Response (franks) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 6, PRIVACY
+13:05:15.098607 1.0 Mb/s 2437 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:15.112412 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 0us Beacon (ATT381) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:15.116353 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 0us Beacon (ATT136) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:15.120902 1.0 Mb/s 2437 MHz 11b -88dB signal antenna 3 0us Beacon (Millstm) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:15.170920 1.0 Mb/s 2457 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:15.177113 1.0 Mb/s 2462 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:05:15.186396 1.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 304us Probe Response (atandt) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:15.190502 1.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 0us Beacon (ATT856) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:05:15.195364 1.0 Mb/s 2462 MHz 11b -75dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+13:05:15.198011 1.0 Mb/s 2462 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:15.202385 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (print server 51571D) [1.0* 2.0* 5.5* 11.0* Mbit] IBSS CH: 11
+13:05:17.946905 1.0 Mb/s 2412 MHz 11b -65dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:17.951172 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:17.955725 1.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 0us Beacon (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:17.973781 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 0us Beacon (NETGEAR-24-G) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 2, PRIVACY
+13:05:17.981525 1.0 Mb/s 2417 MHz 11b -79dB signal antenna 3 314us Probe Response (NETGEAR-24-G) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 2, PRIVACY
+13:05:17.997463 1.0 Mb/s 2422 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:18.009996 1.0 Mb/s 2427 MHz 11b -73dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:18.022256 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:18.040239 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:18.053669 1.0 Mb/s 2442 MHz 11b -86dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:18.099725 1.0 Mb/s 2462 MHz 11b -81dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:18.101804 1.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:05:18.103757 1.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:20.869127 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:20.871295 1.0 Mb/s 2412 MHz 11b -70dB signal antenna 3 0us Beacon (ATT032) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+13:05:20.873181 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 314us Probe Response (Netgear-MSD) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+13:05:20.904707 1.0 Mb/s 2417 MHz 11b -82dB signal antenna 3 0us Beacon (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 4, PRIVACY
+13:05:20.918079 1.0 Mb/s 2422 MHz 11b -74dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:20.930309 1.0 Mb/s 2427 MHz 11b -73dB signal antenna 3 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:20.935220 1.0 Mb/s 2427 MHz 11b -78dB signal antenna 3 0us Beacon (NETGEAR-24-G) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 2, PRIVACY
+13:05:20.968887 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:20.972865 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (MSMILDRED-PC_Network) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 4, PRIVACY
+13:05:20.985725 1.0 Mb/s 2432 MHz 11b -89dB signal antenna 3 0us Beacon (franks) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 6, PRIVACY
+13:05:21.003462 1.0 Mb/s 2437 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:21.011032 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:21.013500 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+13:05:21.023321 1.0 Mb/s 2437 MHz 11b -84dB signal antenna 3 0us Beacon (ATT840) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+13:05:21.076394 1.0 Mb/s 2457 MHz 11b -76dB signal antenna 3 0us Beacon (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:05:21.109113 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 314us Probe Response (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:21.111183 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 314us Probe Response (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11
+13:05:21.113222 1.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 314us Probe Response (MFG) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:21.118235 1.0 Mb/s 2462 MHz 11b -89dB signal antenna 3 304us Probe Response (atandt) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:21.122529 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (ATT856) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 11, PRIVACY
+13:05:21.128381 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 0us Beacon (ATT856) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:05:21.132940 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (FunnyRabbit) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11, PRIVACY
+13:05:21.134747 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 0us Beacon (FunnyRabbit-guest) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 11
+
