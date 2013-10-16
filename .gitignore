@@ -1,4 +1,6 @@
 *~
+*.dvi
+*.rtf
 *.aux
 *.lof
 *.log
