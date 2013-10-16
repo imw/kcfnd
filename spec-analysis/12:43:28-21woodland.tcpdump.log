@@ -1,0 +1,659 @@
+12:43:31.747859 6.0 Mb/s 5180 MHz 11a -89dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:43:32.625959 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:32.629607 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:32.630648 1.0 Mb/s 2412 MHz 11b -90dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:32.663542 1.0 Mb/s 2417 MHz 11b -84dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:43:32.699353 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:32.704253 1.0 Mb/s 2432 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:32.706714 1.0 Mb/s 2432 MHz 11b -63dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:43:32.707778 1.0 Mb/s 2432 MHz 11b -63dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:43:32.712185 1.0 Mb/s 2432 MHz 11b -85dB signal antenna 3 0us Beacon (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:32.717364 1.0 Mb/s 2432 MHz 11b -83dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 5, PRIVACY
+12:43:32.721360 1.0 Mb/s 2432 MHz 11b -62dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:32.722238 1.0 Mb/s 2432 MHz 11b -64dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:32.733335 1.0 Mb/s 2437 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:32.810825 1.0 Mb/s 2447 MHz 11b -75dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:32.821237 1.0 Mb/s 2452 MHz 11b -78dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:32.822244 1.0 Mb/s 2452 MHz 11b -76dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:32.855462 1.0 Mb/s 2457 MHz 11b -71dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:32.859160 1.0 Mb/s 2457 MHz 11b -85dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:32.860071 1.0 Mb/s 2457 MHz 11b -72dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:32.885600 1.0 Mb/s 2462 MHz 11b -70dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:32.889077 1.0 Mb/s 2462 MHz 11b -70dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:32.906957 1.0 Mb/s 2462 MHz 11b -88dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:32.907833 1.0 Mb/s 2462 MHz 11b -88dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:33.218947 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 0us Beacon (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:33.220159 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:43:33.239934 6.0 Mb/s 5220 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:33.310372 6.0 Mb/s 5240 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:33.310434 6.0 Mb/s 5240 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:35.102269 6.0 Mb/s 5745 MHz 11a -77dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:35.102320 6.0 Mb/s 5745 MHz 11a -77dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:35.104600 6.0 Mb/s 5745 MHz 11a -77dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 149, PRIVACY
+12:43:35.104774 6.0 Mb/s 5745 MHz 11a -77dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 149, PRIVACY
+12:43:35.192238 6.0 Mb/s 5765 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:35.192288 6.0 Mb/s 5765 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:35.193159 6.0 Mb/s 5765 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:35.193351 6.0 Mb/s 5765 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:35.325954 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:35.326008 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:35.350970 6.0 Mb/s 5805 MHz 11a -90dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:43:35.499101 1.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:35.502484 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:35.572764 1.0 Mb/s 2432 MHz 11b -59dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:43:35.575606 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:35.585531 1.0 Mb/s 2432 MHz 11b -59dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:35.587052 1.0 Mb/s 2432 MHz 11b -59dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:35.604405 1.0 Mb/s 2437 MHz 11b -72dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:35.608348 1.0 Mb/s 2437 MHz 11b -59dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:43:35.612121 1.0 Mb/s 2437 MHz 11b -74dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:35.637479 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 0us Beacon (ATT992) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:35.641987 1.0 Mb/s 2442 MHz 11b -59dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:43:35.643078 1.0 Mb/s 2442 MHz 11b -59dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:43:35.689260 1.0 Mb/s 2452 MHz 11b -74dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:35.737239 1.0 Mb/s 2462 MHz 11b -90dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:35.983715 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 0us Beacon (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:35.984761 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:43:35.985292 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 Retry 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:43:36.075495 6.0 Mb/s 5240 MHz 11a -81dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:36.075539 6.0 Mb/s 5240 MHz 11a -80dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:36.076378 6.0 Mb/s 5240 MHz 11a -81dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:36.076479 6.0 Mb/s 5240 MHz 11a -81dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:37.867032 6.0 Mb/s 5745 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:37.867068 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:38.090931 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:38.337606 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:43:38.338705 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:38.340880 1.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1
+12:43:38.361797 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:43:38.366796 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:43:38.417121 1.0 Mb/s 2432 MHz 11b -88dB signal antenna 3 Retry 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 5, PRIVACY
+12:43:38.430560 1.0 Mb/s 2437 MHz 11b -70dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:43:38.436691 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:38.442865 1.0 Mb/s 2437 MHz 11b -67dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:38.446179 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 0us Beacon (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:38.492166 1.0 Mb/s 2452 MHz 11b -78dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:38.554804 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 0us Beacon (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 11
+12:43:38.608315 6.0 Mb/s 5180 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36
+12:43:38.608686 6.0 Mb/s 5180 MHz 11a -87dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:43:38.609031 6.0 Mb/s 5180 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36, PRIVACY
+12:43:38.609985 6.0 Mb/s 5180 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 36
+12:43:38.610338 6.0 Mb/s 5180 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 36, PRIVACY
+12:43:38.748563 6.0 Mb/s 5220 MHz 11a -82dB signal antenna 3 0us Beacon (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:38.749601 6.0 Mb/s 5220 MHz 11a -81dB signal antenna 3 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:43:38.769406 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:38.769462 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:38.840018 6.0 Mb/s 5240 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:38.840076 6.0 Mb/s 5240 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:40.631852 6.0 Mb/s 5745 MHz 11a -83dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:40.631919 6.0 Mb/s 5745 MHz 11a -82dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:40.855610 6.0 Mb/s 5785 MHz 11a -81dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:40.855685 6.0 Mb/s 5785 MHz 11a -81dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:41.119418 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:43:41.120611 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:41.124453 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1
+12:43:41.126684 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:43:41.168105 1.0 Mb/s 2422 MHz 11b -92dB signal antenna 3 0us Probe Response (ClearSPOT_6bf04) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] CH: 3, PRIVACY
+12:43:41.207702 1.0 Mb/s 2427 MHz 11b -73dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:41.223053 1.0 Mb/s 2427 MHz 11b -77dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:41.263455 1.0 Mb/s 2442 MHz 11b -68dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:41.272301 1.0 Mb/s 2442 MHz 11b -74dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:43:41.278809 1.0 Mb/s 2442 MHz 11b -87dB signal antenna 3 0us Beacon () [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 8, PRIVACY
+12:43:41.340747 1.0 Mb/s 2462 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:41.343023 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11
+12:43:41.353123 1.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:41.358485 1.0 Mb/s 2462 MHz 11b -82dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:41.359369 1.0 Mb/s 2462 MHz 11b -82dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:41.611722 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:41.612481 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:43:41.612668 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:43:41.707315 6.0 Mb/s 5240 MHz 11a -83dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:41.707349 6.0 Mb/s 5240 MHz 11a -83dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:41.712552 6.0 Mb/s 5240 MHz 11a -82dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:41.721828 6.0 Mb/s 5240 MHz 11a -83dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:43.499064 6.0 Mb/s 5745 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:43.499132 6.0 Mb/s 5745 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:43.588998 6.0 Mb/s 5765 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:43.589142 6.0 Mb/s 5765 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:43.589941 6.0 Mb/s 5765 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:43.590131 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:43.620306 6.0 Mb/s 5785 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:43.620425 6.0 Mb/s 5785 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:43.729111 6.0 Mb/s 5805 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:43:43.862234 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:43:43.864370 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 Retry 314us Probe Response (NETGEAR - 0) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 1
+12:43:43.870793 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 0us Beacon (NETGEAR - 0) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 1
+12:43:43.873647 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:43:43.884869 1.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:43:43.891405 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:43:43.894358 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1
+12:43:43.947926 1.0 Mb/s 2427 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:43.950406 1.0 Mb/s 2427 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:43.952748 1.0 Mb/s 2427 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:43.955223 1.0 Mb/s 2427 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:43.957631 1.0 Mb/s 2427 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:43.990047 1.0 Mb/s 2432 MHz 11b -73dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:44.020893 1.0 Mb/s 2437 MHz 11b -86dB signal antenna 3 Retry 314us Probe Response (wally sft) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:44.032394 1.0 Mb/s 2442 MHz 11b -67dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:44.042357 1.0 Mb/s 2442 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (ATT992) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:44.049582 1.0 Mb/s 2442 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (ATT992) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:44.074880 1.0 Mb/s 2447 MHz 11b -69dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:44.112053 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:44.116631 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:44.125906 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:44.126879 1.0 Mb/s 2462 MHz 11b -80dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:44.240384 6.0 Mb/s 5180 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36
+12:43:44.240803 6.0 Mb/s 5180 MHz 11a -86dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:43:44.241067 6.0 Mb/s 5180 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36, PRIVACY
+12:43:44.401448 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:44.402606 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:43:44.403120 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 Retry 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:43:44.472074 6.0 Mb/s 5240 MHz 11a -77dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:44.472193 6.0 Mb/s 5240 MHz 11a -77dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:44.476013 6.0 Mb/s 5240 MHz 11a -78dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:44.476145 6.0 Mb/s 5240 MHz 11a -77dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:46.263870 6.0 Mb/s 5745 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:46.263905 6.0 Mb/s 5745 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:46.273458 6.0 Mb/s 5745 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 149, PRIVACY
+12:43:46.273550 6.0 Mb/s 5745 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 149, PRIVACY
+12:43:46.353957 6.0 Mb/s 5765 MHz 11a -81dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:46.354005 6.0 Mb/s 5765 MHz 11a -82dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:46.355120 6.0 Mb/s 5765 MHz 11a -81dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:46.355219 6.0 Mb/s 5765 MHz 11a -82dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:46.385259 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:46.385309 6.0 Mb/s 5785 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:46.387324 6.0 Mb/s 5785 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:43:46.387443 6.0 Mb/s 5785 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:43:46.410309 6.0 Mb/s 5805 MHz 11a -90dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:43:46.411826 6.0 Mb/s 5805 MHz 11a -89dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 161, PRIVACY
+12:43:46.428463 6.0 Mb/s 5805 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:43:46.557980 1.0 Mb/s 2412 MHz 11b -69dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:43:46.560390 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 Retry 314us Probe Response (NETGEAR - 0) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 1
+12:43:46.569380 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1
+12:43:46.571638 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:46.593001 1.0 Mb/s 2417 MHz 11b -82dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:46.660694 1.0 Mb/s 2432 MHz 11b -74dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:43:46.663429 1.0 Mb/s 2432 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 5, PRIVACY
+12:43:46.673814 1.0 Mb/s 2432 MHz 11b -87dB signal antenna 3 0us Beacon (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 7, PRIVACY
+12:43:46.686702 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 0us Beacon (wally sft) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:46.692628 1.0 Mb/s 2437 MHz 11b -69dB signal antenna 3 Retry 314us Probe Response (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:46.695066 1.0 Mb/s 2437 MHz 11b -70dB signal antenna 3 Retry 314us Probe Response (ATT992) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:46.697179 1.0 Mb/s 2437 MHz 11b -89dB signal antenna 3 0us Beacon (ATT992) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:46.737289 1.0 Mb/s 2447 MHz 11b -65dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:43:46.762518 1.0 Mb/s 2457 MHz 11b -80dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:46.775602 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:46.777845 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11
+12:43:46.780113 1.0 Mb/s 2462 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:46.780884 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:46.787245 1.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:46.902819 6.0 Mb/s 5180 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36
+12:43:46.903250 6.0 Mb/s 5180 MHz 11a -86dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:43:46.903517 6.0 Mb/s 5180 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36, PRIVACY
+12:43:46.904367 6.0 Mb/s 5180 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 36
+12:43:46.904767 6.0 Mb/s 5180 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 36, PRIVACY
+12:43:47.043060 6.0 Mb/s 5220 MHz 11a -84dB signal antenna 3 0us Beacon (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:47.134495 6.0 Mb/s 5240 MHz 11a -82dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:47.135507 6.0 Mb/s 5240 MHz 11a -82dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:47.135544 6.0 Mb/s 5240 MHz 11a -82dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:47.135641 6.0 Mb/s 5240 MHz 11a -81dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:48.926275 6.0 Mb/s 5745 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:48.929387 6.0 Mb/s 5745 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:43:48.929430 6.0 Mb/s 5745 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 149, PRIVACY
+12:43:48.929587 6.0 Mb/s 5745 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 149, PRIVACY
+12:43:49.150085 6.0 Mb/s 5785 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:49.150156 6.0 Mb/s 5785 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:49.151142 6.0 Mb/s 5785 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:43:49.151356 6.0 Mb/s 5785 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:43:49.174872 6.0 Mb/s 5805 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:43:49.175037 6.0 Mb/s 5805 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:43:49.177253 6.0 Mb/s 5805 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 161, PRIVACY
+12:43:49.177325 6.0 Mb/s 5805 MHz 11a -88dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 161, PRIVACY
+12:43:49.323064 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:49.326304 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 Retry 314us Probe Response (NETGEAR - 0) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 1
+12:43:49.329208 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1
+12:43:49.331526 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:49.395916 1.0 Mb/s 2432 MHz 11b -67dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:49.406344 1.0 Mb/s 2437 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (ATT992) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:49.408759 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:49.410653 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:49.413111 1.0 Mb/s 2437 MHz 11b -63dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:49.415516 1.0 Mb/s 2437 MHz 11b -63dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:49.493711 1.0 Mb/s 2462 MHz 11b -78dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:49.498150 1.0 Mb/s 2462 MHz 11b -76dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:49.500296 1.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:49.501430 1.0 Mb/s 2462 MHz 11b -86dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:49.565263 6.0 Mb/s 5180 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36
+12:43:49.565670 6.0 Mb/s 5180 MHz 11a -84dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:43:49.566039 6.0 Mb/s 5180 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36, PRIVACY
+12:43:49.709587 6.0 Mb/s 5220 MHz 11a -84dB signal antenna 3 0us Beacon (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:49.710622 6.0 Mb/s 5220 MHz 11a -82dB signal antenna 3 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:43:49.726288 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:49.726400 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:49.796917 6.0 Mb/s 5240 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:49.798205 6.0 Mb/s 5240 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:49.798231 6.0 Mb/s 5240 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:49.798363 6.0 Mb/s 5240 MHz 11a -83dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:49.802170 6.0 Mb/s 5240 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:51.678788 6.0 Mb/s 5765 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:51.679852 6.0 Mb/s 5765 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:51.679901 6.0 Mb/s 5765 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:51.679998 6.0 Mb/s 5765 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:51.710104 6.0 Mb/s 5785 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:51.719360 6.0 Mb/s 5785 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:51.730881 6.0 Mb/s 5785 MHz 11a -83dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:43:51.732663 6.0 Mb/s 5785 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:43:51.818758 6.0 Mb/s 5805 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:43:51.964383 1.0 Mb/s 2412 MHz 11b -87dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:51.973540 1.0 Mb/s 2412 MHz 11b -88dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:43:51.974464 1.0 Mb/s 2412 MHz 11b -89dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:43:52.110575 1.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:52.111514 1.0 Mb/s 2462 MHz 11b -74dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:52.114864 1.0 Mb/s 2462 MHz 11b -74dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:52.117172 1.0 Mb/s 2462 MHz 11b -89dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11
+12:43:52.388703 6.0 Mb/s 5220 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:52.397969 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:43:52.459347 6.0 Mb/s 5240 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:52.468610 6.0 Mb/s 5240 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:54.341229 6.0 Mb/s 5765 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:54.350518 6.0 Mb/s 5765 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:54.481173 6.0 Mb/s 5805 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:43:54.490354 6.0 Mb/s 5805 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:43:54.630288 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:54.632897 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:43:54.634180 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:43:54.636960 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:43:54.723550 1.0 Mb/s 2432 MHz 11b -78dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 5, PRIVACY
+12:43:54.741503 1.0 Mb/s 2437 MHz 11b -84dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:54.844195 1.0 Mb/s 2462 MHz 11b -89dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:54.846597 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:54.847628 1.0 Mb/s 2462 MHz 11b -85dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:54.869179 1.0 Mb/s 2462 MHz 11b -87dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:54.870034 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:54.875446 1.0 Mb/s 2462 MHz 11b -75dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:55.224184 6.0 Mb/s 5240 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:55.224238 6.0 Mb/s 5240 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:55.225085 6.0 Mb/s 5240 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:55.225291 6.0 Mb/s 5240 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:43:57.106130 6.0 Mb/s 5765 MHz 11a -79dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:57.106192 6.0 Mb/s 5765 MHz 11a -79dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:57.106887 6.0 Mb/s 5765 MHz 11a -79dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:57.107076 6.0 Mb/s 5765 MHz 11a -79dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:57.239733 6.0 Mb/s 5785 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:57.239886 6.0 Mb/s 5785 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:57.257197 6.0 Mb/s 5785 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:57.262323 6.0 Mb/s 5785 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:43:57.510644 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:43:57.523146 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 314us Probe Response (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:43:57.525511 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:43:57.527976 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:43:57.574176 1.0 Mb/s 2432 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:57.607676 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:57.608638 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:43:57.621341 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 314us Probe Response (ATT992) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:57.623809 1.0 Mb/s 2437 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:57.641300 1.0 Mb/s 2442 MHz 11b -71dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:57.648625 1.0 Mb/s 2442 MHz 11b -73dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:57.653460 1.0 Mb/s 2442 MHz 11b -71dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:43:57.712940 1.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:43:57.743588 1.0 Mb/s 2462 MHz 11b -73dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:43:58.091408 6.0 Mb/s 5240 MHz 11a -70dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:58.091446 6.0 Mb/s 5240 MHz 11a -71dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:43:59.973298 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:59.974170 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:43:59.974212 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:43:59.974257 6.0 Mb/s 5765 MHz 11a -83dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:00.004576 6.0 Mb/s 5785 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:00.113220 6.0 Mb/s 5805 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:00.113253 6.0 Mb/s 5805 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:00.273267 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 0us Beacon (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:00.279128 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 314us Probe Response (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:00.283676 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:00.341079 1.0 Mb/s 2427 MHz 11b -66dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.344188 1.0 Mb/s 2427 MHz 11b -66dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.346660 1.0 Mb/s 2427 MHz 11b -67dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.349109 1.0 Mb/s 2427 MHz 11b -67dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.352235 1.0 Mb/s 2427 MHz 11b -66dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.354650 1.0 Mb/s 2427 MHz 11b -67dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.356918 1.0 Mb/s 2427 MHz 11b -65dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:00.373545 1.0 Mb/s 2432 MHz 11b -81dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:44:00.383326 1.0 Mb/s 2432 MHz 11b -63dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.386000 1.0 Mb/s 2432 MHz 11b -62dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.412266 1.0 Mb/s 2437 MHz 11b -60dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.419847 1.0 Mb/s 2437 MHz 11b -60dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:00.430392 1.0 Mb/s 2437 MHz 11b -87dB signal antenna 3 0us Beacon (NET) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:00.437136 1.0 Mb/s 2437 MHz 11b -86dB signal antenna 3 0us Beacon (CCO) [1.0* 2.0* 5.5* 11.0* 6.0 Mbit] ESS CH: 6, PRIVACY
+12:44:00.458968 1.0 Mb/s 2447 MHz 11b -67dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:00.768731 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:00.769834 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:00.770491 6.0 Mb/s 5220 MHz 11a -89dB signal antenna 3 Retry 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:00.785573 6.0 Mb/s 5220 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:00.856226 6.0 Mb/s 5240 MHz 11a -71dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:00.865467 6.0 Mb/s 5240 MHz 11a -71dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:02.648013 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:02.648079 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:02.738116 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:02.739258 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:02.739291 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:02.739368 6.0 Mb/s 5765 MHz 11a -83dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:02.878050 6.0 Mb/s 5805 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:02.878190 6.0 Mb/s 5805 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:03.022478 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:03.026467 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 314us Probe Response (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:03.028976 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:03.032939 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:03.040269 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:03.062985 1.0 Mb/s 2417 MHz 11b -86dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:03.095519 1.0 Mb/s 2432 MHz 11b -86dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 5, PRIVACY
+12:44:03.109633 1.0 Mb/s 2437 MHz 11b -66dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:03.147561 1.0 Mb/s 2452 MHz 11b -78dB signal antenna 3 314us Probe Response (RIDECHARGE) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 9
+12:44:03.169913 1.0 Mb/s 2457 MHz 11b -69dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:44:03.170805 1.0 Mb/s 2457 MHz 11b -69dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:44:03.197589 1.0 Mb/s 2462 MHz 11b -69dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:44:03.198720 1.0 Mb/s 2462 MHz 11b -71dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:44:03.550451 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:03.550521 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:03.551391 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:03.551484 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:03.620935 6.0 Mb/s 5240 MHz 11a -73dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:03.621082 6.0 Mb/s 5240 MHz 11a -74dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:03.621923 6.0 Mb/s 5240 MHz 11a -73dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:03.622114 6.0 Mb/s 5240 MHz 11a -73dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:05.502955 6.0 Mb/s 5765 MHz 11a -74dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:05.503003 6.0 Mb/s 5765 MHz 11a -76dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:05.503921 6.0 Mb/s 5765 MHz 11a -75dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:05.504017 6.0 Mb/s 5765 MHz 11a -75dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:05.534215 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:05.535382 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:05.535420 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:05.535594 6.0 Mb/s 5785 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:05.642813 6.0 Mb/s 5805 MHz 11a -90dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:05.777562 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 314us Probe Response (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:05.780127 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:05.782546 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:44:05.783718 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:44:05.787451 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:05.797710 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:05.798647 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:05.805059 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:05.808143 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1
+12:44:05.893355 1.0 Mb/s 2437 MHz 11b -68dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:05.895802 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 314us Probe Response (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:05.897017 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:44:05.923627 1.0 Mb/s 2442 MHz 11b -81dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:05.927892 1.0 Mb/s 2442 MHz 11b -83dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:05.930253 1.0 Mb/s 2442 MHz 11b -77dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:05.996252 1.0 Mb/s 2462 MHz 11b -71dB signal antenna 3 0us Beacon (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 11
+12:44:06.298534 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 0us Beacon (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:06.315232 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:06.315281 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:06.385893 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:06.385952 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:06.389160 6.0 Mb/s 5240 MHz 11a -67dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:06.389305 6.0 Mb/s 5240 MHz 11a -67dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:08.177578 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:08.177618 6.0 Mb/s 5745 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:08.267776 6.0 Mb/s 5765 MHz 11a -77dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:08.267814 6.0 Mb/s 5765 MHz 11a -76dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:08.269057 6.0 Mb/s 5765 MHz 11a -77dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:08.269190 6.0 Mb/s 5765 MHz 11a -76dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:08.299206 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:08.299944 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:08.300060 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:08.558608 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:44:08.562983 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:08.566911 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:44:08.569840 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:08.573123 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1
+12:44:08.575166 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:08.595388 1.0 Mb/s 2417 MHz 11b -77dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:44:08.664989 1.0 Mb/s 2432 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 5, PRIVACY
+12:44:08.673423 1.0 Mb/s 2432 MHz 11b -66dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:08.675887 1.0 Mb/s 2432 MHz 11b -66dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:08.690980 1.0 Mb/s 2437 MHz 11b -67dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:08.693397 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:08.695830 1.0 Mb/s 2437 MHz 11b -64dB signal antenna 3 Retry 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:08.710566 1.0 Mb/s 2437 MHz 11b -87dB signal antenna 3 0us Beacon (ATT520) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:08.727137 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:08.729437 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:08.731835 1.0 Mb/s 2442 MHz 11b -81dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:08.808196 1.0 Mb/s 2457 MHz 11b -76dB signal antenna 3 314us Probe Response (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 11
+12:44:08.810700 1.0 Mb/s 2457 MHz 11b -77dB signal antenna 3 Retry 314us Probe Response (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 11
+12:44:08.851199 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:44:08.863493 1.0 Mb/s 2462 MHz 11b -75dB signal antenna 3 0us Beacon (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 11
+12:44:08.874172 1.0 Mb/s 2462 MHz 11b -90dB signal antenna 3 0us Beacon (Vines2ndFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 11
+12:44:09.182331 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:09.182462 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:09.183377 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:09.183545 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:09.253119 6.0 Mb/s 5240 MHz 11a -73dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:09.253180 6.0 Mb/s 5240 MHz 11a -73dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:11.044692 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:11.044823 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:11.045792 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 149, PRIVACY
+12:44:11.134996 6.0 Mb/s 5765 MHz 11a -76dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:11.135932 6.0 Mb/s 5765 MHz 11a -77dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:11.135961 6.0 Mb/s 5765 MHz 11a -77dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:11.136037 6.0 Mb/s 5765 MHz 11a -76dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:11.166283 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:11.166336 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:11.428046 1.0 Mb/s 2412 MHz 11b -72dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:11.429237 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:44:11.433194 1.0 Mb/s 2412 MHz 11b -72dB signal antenna 3 Retry 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:11.435323 1.0 Mb/s 2412 MHz 11b -73dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:11.437526 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 0us Beacon (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:11.443482 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:11.579829 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 0us Beacon (ATT992) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:11.594999 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:11.597525 1.0 Mb/s 2442 MHz 11b -82dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:11.599954 1.0 Mb/s 2442 MHz 11b -81dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:11.668875 1.0 Mb/s 2462 MHz 11b -72dB signal antenna 3 314us Probe Response (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 11
+12:44:11.673513 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:44:11.947256 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:11.947295 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:11.948399 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:11.948954 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 Retry 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:12.017933 6.0 Mb/s 5240 MHz 11a -67dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:12.027195 6.0 Mb/s 5240 MHz 11a -67dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:12.027318 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:12.027506 6.0 Mb/s 5240 MHz 11a -67dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:13.809602 6.0 Mb/s 5745 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:13.809712 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:13.899832 6.0 Mb/s 5765 MHz 11a -83dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:13.899882 6.0 Mb/s 5765 MHz 11a -82dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:13.900899 6.0 Mb/s 5765 MHz 11a -81dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:13.901037 6.0 Mb/s 5765 MHz 11a -83dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:13.931102 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:13.931157 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:13.945420 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:13.945539 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:14.189953 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1
+12:44:14.193530 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:44:14.195763 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:14.199704 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 0us Beacon (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:14.201767 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:14.205088 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1
+12:44:14.207156 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:14.263870 1.0 Mb/s 2432 MHz 11b -82dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 5, PRIVACY
+12:44:14.277161 1.0 Mb/s 2437 MHz 11b -68dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:14.279575 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:14.280644 1.0 Mb/s 2437 MHz 11b -86dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:14.283014 1.0 Mb/s 2437 MHz 11b -68dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:14.286404 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 0us Beacon (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:14.292982 1.0 Mb/s 2437 MHz 11b -83dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:44:14.293905 1.0 Mb/s 2437 MHz 11b -76dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:44:14.312438 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:14.314796 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:14.317048 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:14.322099 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 0us Beacon (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 7, PRIVACY
+12:44:14.551291 6.0 Mb/s 5180 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36
+12:44:14.551736 6.0 Mb/s 5180 MHz 11a -88dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:44:14.552042 6.0 Mb/s 5180 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36, PRIVACY
+12:44:14.712071 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:14.712129 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:14.713052 6.0 Mb/s 5220 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:14.713161 6.0 Mb/s 5220 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:14.782759 6.0 Mb/s 5240 MHz 11a -70dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:14.784430 6.0 Mb/s 5240 MHz 11a -71dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:14.784469 6.0 Mb/s 5240 MHz 11a -71dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:14.793714 6.0 Mb/s 5240 MHz 11a -71dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:16.574411 6.0 Mb/s 5745 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:16.583680 6.0 Mb/s 5745 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:16.664653 6.0 Mb/s 5765 MHz 11a -79dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:16.665753 6.0 Mb/s 5765 MHz 11a -79dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:16.665793 6.0 Mb/s 5765 MHz 11a -79dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:16.665892 6.0 Mb/s 5765 MHz 11a -79dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:16.804527 6.0 Mb/s 5805 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:16.813803 6.0 Mb/s 5805 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:16.951120 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:16.953667 1.0 Mb/s 2412 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:16.956472 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:44:16.959473 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:16.966704 1.0 Mb/s 2412 MHz 11b -79dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:16.972038 1.0 Mb/s 2412 MHz 11b -80dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:17.036519 1.0 Mb/s 2437 MHz 11b -73dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:17.038920 1.0 Mb/s 2437 MHz 11b -86dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:17.043817 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 Retry 314us Probe Response (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:17.046455 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 Retry 314us Probe Response (ATT992) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:17.051262 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 0us Beacon (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:17.057791 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:44:17.058712 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:44:17.120393 1.0 Mb/s 2462 MHz 11b -71dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:44:17.121531 1.0 Mb/s 2462 MHz 11b -69dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 11, PRIVACY
+12:44:17.213742 6.0 Mb/s 5180 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36
+12:44:17.214178 6.0 Mb/s 5180 MHz 11a -88dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:44:17.374494 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:17.374549 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:17.375592 6.0 Mb/s 5220 MHz 11a -85dB signal antenna 3 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:17.445190 6.0 Mb/s 5240 MHz 11a -67dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:17.445311 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:17.446945 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:17.447080 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:19.236838 6.0 Mb/s 5745 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:19.236891 6.0 Mb/s 5745 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:19.237776 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 149, PRIVACY
+12:44:19.237864 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 149, PRIVACY
+12:44:19.327091 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:19.327141 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:19.327977 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:19.328108 6.0 Mb/s 5765 MHz 11a -83dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:19.358345 6.0 Mb/s 5785 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:19.367610 6.0 Mb/s 5785 MHz 11a -83dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:19.466946 6.0 Mb/s 5805 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:19.476277 6.0 Mb/s 5805 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:19.611434 1.0 Mb/s 2412 MHz 11b -88dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:19.614890 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 314us Probe Response (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:19.617481 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 Retry 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:19.621765 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:19.622695 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:19.623833 1.0 Mb/s 2412 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 1, PRIVACY
+12:44:19.626920 1.0 Mb/s 2412 MHz 11b -77dB signal antenna 3 0us Beacon (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:19.629013 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:19.697619 1.0 Mb/s 2437 MHz 11b -70dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:19.700015 1.0 Mb/s 2437 MHz 11b -80dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:19.701102 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:19.710236 1.0 Mb/s 2437 MHz 11b -71dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:19.713655 1.0 Mb/s 2437 MHz 11b -82dB signal antenna 3 0us Beacon (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:19.720199 1.0 Mb/s 2437 MHz 11b -81dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:44:19.733609 1.0 Mb/s 2442 MHz 11b -81dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:19.855002 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:44:19.855920 1.0 Mb/s 2462 MHz 11b -84dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:44:19.876183 6.0 Mb/s 5180 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36
+12:44:19.876634 6.0 Mb/s 5180 MHz 11a -84dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:44:19.876871 6.0 Mb/s 5180 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36, PRIVACY
+12:44:19.877796 6.0 Mb/s 5180 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 36
+12:44:19.878208 6.0 Mb/s 5180 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 36, PRIVACY
+12:44:20.036972 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:20.037023 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:20.037790 6.0 Mb/s 5220 MHz 11a -87dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:20.037883 6.0 Mb/s 5220 MHz 11a -88dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:20.107611 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:20.107742 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:20.108468 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:20.108560 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:20.112483 6.0 Mb/s 5240 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:21.989517 6.0 Mb/s 5765 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:21.989645 6.0 Mb/s 5765 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:21.990603 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:21.990702 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:22.020770 6.0 Mb/s 5785 MHz 11a -82dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:22.021640 6.0 Mb/s 5785 MHz 11a -81dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:22.021661 6.0 Mb/s 5785 MHz 11a -82dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:22.021816 6.0 Mb/s 5785 MHz 11a -82dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:22.038343 6.0 Mb/s 5785 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:22.064164 6.0 Mb/s 5805 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:22.208784 1.0 Mb/s 2412 MHz 11b -76dB signal antenna 3 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:22.211194 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:22.213705 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 Retry 314us Probe Response (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:22.222986 1.0 Mb/s 2412 MHz 11b -84dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:22.223988 1.0 Mb/s 2412 MHz 11b -86dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:22.249917 1.0 Mb/s 2417 MHz 11b -87dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:22.280219 1.0 Mb/s 2432 MHz 11b -87dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:44:22.315319 1.0 Mb/s 2437 MHz 11b -77dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:22.318346 1.0 Mb/s 2437 MHz 11b -85dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:22.319567 1.0 Mb/s 2437 MHz 11b -84dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:22.422315 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:44:22.436182 6.0 Mb/s 5180 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36
+12:44:22.436666 6.0 Mb/s 5180 MHz 11a -87dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:44:22.436955 6.0 Mb/s 5180 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36, PRIVACY
+12:44:22.596927 6.0 Mb/s 5220 MHz 11a -85dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:22.597065 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:22.598108 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:22.598212 6.0 Mb/s 5220 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:22.667651 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:22.667778 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:22.668813 6.0 Mb/s 5240 MHz 11a -67dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:22.668908 6.0 Mb/s 5240 MHz 11a -68dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:22.672495 6.0 Mb/s 5240 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:22.672550 6.0 Mb/s 5240 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:24.549540 6.0 Mb/s 5765 MHz 11a -78dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:24.558799 6.0 Mb/s 5765 MHz 11a -78dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:24.791781 6.0 Mb/s 5805 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:24.927916 1.0 Mb/s 2412 MHz 11b -71dB signal antenna 3 Retry 314us Probe Response (ATT488) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:24.930317 1.0 Mb/s 2412 MHz 11b -74dB signal antenna 3 Retry 314us Probe Response (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+12:44:24.936980 1.0 Mb/s 2412 MHz 11b -85dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:24.946680 1.0 Mb/s 2412 MHz 11b -83dB signal antenna 3 0us Beacon (kcmsdguest) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:24.947619 1.0 Mb/s 2412 MHz 11b -82dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+12:44:24.953920 1.0 Mb/s 2412 MHz 11b -75dB signal antenna 3 0us Beacon (ATT952) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+12:44:25.033340 1.0 Mb/s 2437 MHz 11b -71dB signal antenna 3 314us Probe Response (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:25.035742 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 314us Probe Response (kcmsdguest) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:25.036952 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 314us Probe Response (kcmsdwireless) [1.0* 2.0* 5.5 6.0 9.0 11.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+12:44:25.040135 1.0 Mb/s 2437 MHz 11b -72dB signal antenna 3 0us Beacon (ATT312) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:25.042293 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 0us Beacon (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+12:44:25.044812 1.0 Mb/s 2437 MHz 11b -78dB signal antenna 3 Retry 314us Probe Response (ATT976) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+12:44:25.045944 1.0 Mb/s 2437 MHz 11b -79dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+12:44:25.068612 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:25.072492 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:25.076770 1.0 Mb/s 2442 MHz 11b -84dB signal antenna 3 304us Probe Response (HAV42) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 7, PRIVACY
+12:44:25.123347 1.0 Mb/s 2452 MHz 11b -81dB signal antenna 3 314us Probe Response (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 11
+12:44:25.125399 1.0 Mb/s 2452 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 11
+12:44:25.126853 1.0 Mb/s 2452 MHz 11b -81dB signal antenna 3 Retry 314us Probe Response (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 11
+12:44:25.145408 1.0 Mb/s 2452 MHz 11b -82dB signal antenna 3 0us Beacon (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] ESS CH: 11
+12:44:25.163188 1.0 Mb/s 2462 MHz 11b -83dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:44:25.168360 1.0 Mb/s 2462 MHz 11b -75dB signal antenna 3 Retry 314us Probe Response (Vines4thFloor) [1.0* 2.0* 5.5* 11.0* 6.0 12.0 24.0 36.0 Mbit] CH: 11
+12:44:25.187148 1.0 Mb/s 2462 MHz 11b -79dB signal antenna 3 0us Beacon (kcmsdwireless) [1.0* 2.0* 5.5 11.0 6.0 9.0 12.0 18.0 Mbit] ESS CH: 11, PRIVACY
+12:44:25.201583 6.0 Mb/s 5180 MHz 11a -88dB signal antenna 3 0us Beacon [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] IBSS CH: 36, PRIVACY
+12:44:25.201770 6.0 Mb/s 5180 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 36, PRIVACY
+12:44:25.345090 6.0 Mb/s 5220 MHz 11a -84dB signal antenna 3 0us Beacon (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:25.346143 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:25.346798 6.0 Mb/s 5220 MHz 11a -85dB signal antenna 3 Retry 60us Probe Response (ctcco.com.Sheraton-BTH) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 44, PRIVACY
+12:44:25.361756 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:25.361871 6.0 Mb/s 5220 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 44, PRIVACY
+12:44:25.432462 6.0 Mb/s 5240 MHz 11a -69dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:25.432506 6.0 Mb/s 5240 MHz 11a -69dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 48, PRIVACY
+12:44:25.433844 6.0 Mb/s 5240 MHz 11a -69dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:25.433945 6.0 Mb/s 5240 MHz 11a -69dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 48, PRIVACY
+12:44:27.224061 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:27.224191 6.0 Mb/s 5745 MHz 11a -88dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 149, PRIVACY
+12:44:27.314362 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:27.315272 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 153, PRIVACY
+12:44:27.315300 6.0 Mb/s 5765 MHz 11a -84dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:27.315402 6.0 Mb/s 5765 MHz 11a -83dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 153, PRIVACY
+12:44:27.345604 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:27.346612 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:27.346636 6.0 Mb/s 5785 MHz 11a -85dB signal antenna 3 60us Probe Response (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:27.346743 6.0 Mb/s 5785 MHz 11a -86dB signal antenna 3 60us Probe Response (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] CH: 157, PRIVACY
+12:44:27.363019 6.0 Mb/s 5785 MHz 11a -87dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:27.363160 6.0 Mb/s 5785 MHz 11a -89dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 157, PRIVACY
+12:44:27.454201 6.0 Mb/s 5805 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdguest) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+12:44:27.463485 6.0 Mb/s 5805 MHz 11a -86dB signal antenna 3 0us Beacon (kcmsdwireless) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 161, PRIVACY
+
