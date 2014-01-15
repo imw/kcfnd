@@ -1,0 +1,39 @@
+
+Supernodes:
+
+Radio	Tower
+$2500 + $5000
+
+$7500 x 13 = $97,500
+
+Relays:
+
+9 relay areas
+
+Area	# of struct.	relays
+1	200		30
+2	150		24
+3	160		25
+4	250		35
+5	400		55
+6	300		48
+7	500		65
+8	300		48
+9	400		55
+
+385 relays @ $500 ea. = 192,500
+mounting, etc. $100 ea. = 38,500
+
+subtotal = 328,500
+
+Labor:
+
+2660 structures
+
+5320 man hours at $75 an hour = 399,000
+
+*total = 727,500
+
+
+
+
